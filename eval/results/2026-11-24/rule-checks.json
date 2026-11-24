@@ -1,0 +1,6857 @@
+{
+  "01-explain-build-error/baseline.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 11,
+      "paragraphIncomplete": 0,
+      "list": 4,
+      "listIncomplete": 1,
+      "total": 15,
+      "commas": 6,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "01-explain-build-error/baseline.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 1,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 11,
+      "paragraphIncomplete": 0,
+      "list": 5,
+      "listIncomplete": 2,
+      "total": 16,
+      "commas": 3,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 1
+  },
+  "01-explain-build-error/baseline.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 10,
+      "paragraphIncomplete": 0,
+      "list": 7,
+      "listIncomplete": 3,
+      "total": 17,
+      "commas": 4,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "01-explain-build-error/fluent-korean.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 5,
+      "paragraphIncomplete": 0,
+      "list": 8,
+      "listIncomplete": 0,
+      "total": 13,
+      "commas": 9,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "01-explain-build-error/fluent-korean.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 9,
+      "paragraphIncomplete": 0,
+      "list": 9,
+      "listIncomplete": 0,
+      "total": 18,
+      "commas": 8,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "01-explain-build-error/fluent-korean.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 12,
+      "paragraphIncomplete": 0,
+      "list": 4,
+      "listIncomplete": 0,
+      "total": 16,
+      "commas": 7,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "01-explain-build-error/ours.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 10,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 10,
+      "commas": 4,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "01-explain-build-error/ours.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 6,
+      "paragraphIncomplete": 0,
+      "list": 8,
+      "listIncomplete": 0,
+      "total": 14,
+      "commas": 1,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "01-explain-build-error/ours.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 9,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 9,
+      "commas": 3,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "01-explain-build-error/ours-two-examples.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 9,
+      "paragraphIncomplete": 0,
+      "list": 9,
+      "listIncomplete": 2,
+      "total": 18,
+      "commas": 1,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "01-explain-build-error/ours-two-examples.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 15,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 15,
+      "commas": 3,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "01-explain-build-error/ours-two-examples.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 12,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 12,
+      "commas": 6,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "02-explain-locking/baseline.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 13,
+      "paragraphIncomplete": 0,
+      "list": 10,
+      "listIncomplete": 0,
+      "total": 23,
+      "commas": 5,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "02-explain-locking/baseline.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 20,
+      "paragraphIncomplete": 0,
+      "list": 10,
+      "listIncomplete": 3,
+      "total": 30,
+      "commas": 5,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "02-explain-locking/baseline.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 18,
+      "paragraphIncomplete": 0,
+      "list": 8,
+      "listIncomplete": 3,
+      "total": 26,
+      "commas": 2,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "02-explain-locking/fluent-korean.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 19,
+      "paragraphIncomplete": 0,
+      "list": 5,
+      "listIncomplete": 0,
+      "total": 24,
+      "commas": 8,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "02-explain-locking/fluent-korean.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 2,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 21,
+      "paragraphIncomplete": 0,
+      "list": 5,
+      "listIncomplete": 0,
+      "total": 26,
+      "commas": 13,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 2
+  },
+  "02-explain-locking/fluent-korean.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 16,
+      "paragraphIncomplete": 0,
+      "list": 5,
+      "listIncomplete": 0,
+      "total": 21,
+      "commas": 7,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "02-explain-locking/ours.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 19,
+      "paragraphIncomplete": 0,
+      "list": 3,
+      "listIncomplete": 0,
+      "total": 22,
+      "commas": 5,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "02-explain-locking/ours.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 13,
+      "paragraphIncomplete": 0,
+      "list": 4,
+      "listIncomplete": 0,
+      "total": 17,
+      "commas": 6,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "02-explain-locking/ours.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 19,
+      "paragraphIncomplete": 0,
+      "list": 5,
+      "listIncomplete": 0,
+      "total": 24,
+      "commas": 5,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "02-explain-locking/ours-two-examples.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 20,
+      "paragraphIncomplete": 0,
+      "list": 3,
+      "listIncomplete": 0,
+      "total": 23,
+      "commas": 6,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "02-explain-locking/ours-two-examples.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 1,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 20,
+      "paragraphIncomplete": 0,
+      "list": 6,
+      "listIncomplete": 0,
+      "total": 26,
+      "commas": 9,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 1
+  },
+  "02-explain-locking/ours-two-examples.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 20,
+      "paragraphIncomplete": 0,
+      "list": 4,
+      "listIncomplete": 0,
+      "total": 24,
+      "commas": 4,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "03-report-work/baseline.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 2,
+      "paragraphIncomplete": 0,
+      "list": 16,
+      "listIncomplete": 0,
+      "total": 18,
+      "commas": 3,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "03-report-work/baseline.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 3,
+      "paragraphIncomplete": 0,
+      "list": 15,
+      "listIncomplete": 0,
+      "total": 18,
+      "commas": 2,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "03-report-work/baseline.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 3,
+      "paragraphIncomplete": 0,
+      "list": 17,
+      "listIncomplete": 0,
+      "total": 20,
+      "commas": 2,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "03-report-work/fluent-korean.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 3,
+      "paragraphIncomplete": 0,
+      "list": 16,
+      "listIncomplete": 0,
+      "total": 19,
+      "commas": 3,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "03-report-work/fluent-korean.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 2,
+      "paragraphIncomplete": 0,
+      "list": 16,
+      "listIncomplete": 0,
+      "total": 18,
+      "commas": 3,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "03-report-work/fluent-korean.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 8,
+      "paragraphIncomplete": 0,
+      "list": 11,
+      "listIncomplete": 0,
+      "total": 19,
+      "commas": 2,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "03-report-work/ours.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 5,
+      "paragraphIncomplete": 0,
+      "list": 9,
+      "listIncomplete": 0,
+      "total": 14,
+      "commas": 2,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "03-report-work/ours.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 10,
+      "paragraphIncomplete": 0,
+      "list": 6,
+      "listIncomplete": 0,
+      "total": 16,
+      "commas": 2,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "03-report-work/ours.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 12,
+      "paragraphIncomplete": 0,
+      "list": 6,
+      "listIncomplete": 0,
+      "total": 18,
+      "commas": 3,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "03-report-work/ours-two-examples.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 9,
+      "paragraphIncomplete": 0,
+      "list": 4,
+      "listIncomplete": 0,
+      "total": 13,
+      "commas": 4,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "03-report-work/ours-two-examples.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 9,
+      "paragraphIncomplete": 0,
+      "list": 6,
+      "listIncomplete": 0,
+      "total": 15,
+      "commas": 4,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "03-report-work/ours-two-examples.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 9,
+      "paragraphIncomplete": 0,
+      "list": 5,
+      "listIncomplete": 0,
+      "total": 14,
+      "commas": 4,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "04-ui-payment-error/baseline.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 4,
+      "paragraphIncomplete": 0,
+      "list": 1,
+      "listIncomplete": 1,
+      "total": 5,
+      "commas": 0,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "04-ui-payment-error/baseline.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 4,
+      "paragraphIncomplete": 0,
+      "list": 1,
+      "listIncomplete": 1,
+      "total": 5,
+      "commas": 0,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "04-ui-payment-error/baseline.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 4,
+      "paragraphIncomplete": 0,
+      "list": 1,
+      "listIncomplete": 1,
+      "total": 5,
+      "commas": 0,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "04-ui-payment-error/fluent-korean.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 6,
+      "paragraphIncomplete": 0,
+      "list": 2,
+      "listIncomplete": 2,
+      "total": 8,
+      "commas": 1,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "04-ui-payment-error/fluent-korean.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 6,
+      "paragraphIncomplete": 0,
+      "list": 1,
+      "listIncomplete": 1,
+      "total": 7,
+      "commas": 0,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "04-ui-payment-error/fluent-korean.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 4,
+      "paragraphIncomplete": 0,
+      "list": 2,
+      "listIncomplete": 2,
+      "total": 6,
+      "commas": 0,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "04-ui-payment-error/ours.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 5,
+      "paragraphIncomplete": 0,
+      "list": 1,
+      "listIncomplete": 1,
+      "total": 6,
+      "commas": 2,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "04-ui-payment-error/ours.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 4,
+      "paragraphIncomplete": 0,
+      "list": 2,
+      "listIncomplete": 2,
+      "total": 6,
+      "commas": 1,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "04-ui-payment-error/ours.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 4,
+      "paragraphIncomplete": 0,
+      "list": 2,
+      "listIncomplete": 2,
+      "total": 6,
+      "commas": 2,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "04-ui-payment-error/ours-two-examples.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 5,
+      "paragraphIncomplete": 0,
+      "list": 2,
+      "listIncomplete": 2,
+      "total": 7,
+      "commas": 2,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "04-ui-payment-error/ours-two-examples.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 4,
+      "paragraphIncomplete": 0,
+      "list": 2,
+      "listIncomplete": 2,
+      "total": 6,
+      "commas": 1,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "04-ui-payment-error/ours-two-examples.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 5,
+      "paragraphIncomplete": 0,
+      "list": 2,
+      "listIncomplete": 2,
+      "total": 7,
+      "commas": 2,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "05-ui-auto-category/baseline.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 8,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 8,
+      "commas": 6,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "05-ui-auto-category/baseline.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 9,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 9,
+      "commas": 4,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "05-ui-auto-category/baseline.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 8,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 8,
+      "commas": 4,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "05-ui-auto-category/fluent-korean.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 9,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 9,
+      "commas": 5,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "05-ui-auto-category/fluent-korean.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 9,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 9,
+      "commas": 7,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "05-ui-auto-category/fluent-korean.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 9,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 9,
+      "commas": 4,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "05-ui-auto-category/ours.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 6,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 6,
+      "commas": 4,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "05-ui-auto-category/ours.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 6,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 6,
+      "commas": 4,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "05-ui-auto-category/ours.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 6,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 6,
+      "commas": 4,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "05-ui-auto-category/ours-two-examples.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 9,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 9,
+      "commas": 4,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "05-ui-auto-category/ours-two-examples.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 9,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 9,
+      "commas": 3,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "05-ui-auto-category/ours-two-examples.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 6,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 6,
+      "commas": 4,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "06-rewrite-tech-retro/baseline.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 6,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 6,
+      "commas": 2,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "06-rewrite-tech-retro/baseline.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 6,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 6,
+      "commas": 2,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "06-rewrite-tech-retro/baseline.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 6,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 6,
+      "commas": 1,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "06-rewrite-tech-retro/fluent-korean.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 8,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 8,
+      "commas": 3,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "06-rewrite-tech-retro/fluent-korean.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 6,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 6,
+      "commas": 2,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "06-rewrite-tech-retro/fluent-korean.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 8,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 8,
+      "commas": 2,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "06-rewrite-tech-retro/ours.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 6,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 6,
+      "commas": 1,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "06-rewrite-tech-retro/ours.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 6,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 6,
+      "commas": 1,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "06-rewrite-tech-retro/ours.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 6,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 6,
+      "commas": 0,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "06-rewrite-tech-retro/im-not-ai.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 6,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 6,
+      "commas": 1,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "06-rewrite-tech-retro/im-not-ai.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 1,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 7,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 7,
+      "commas": 0,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 1
+  },
+  "06-rewrite-tech-retro/im-not-ai.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 8,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 8,
+      "commas": 0,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "06-rewrite-tech-retro/ours-two-examples.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 5,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 5,
+      "commas": 1,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "06-rewrite-tech-retro/ours-two-examples.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 5,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 5,
+      "commas": 2,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "06-rewrite-tech-retro/ours-two-examples.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 5,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 5,
+      "commas": 2,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "07-rewrite-running-essay/baseline.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 8,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 8,
+      "commas": 1,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "07-rewrite-running-essay/baseline.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 8,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 8,
+      "commas": 2,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "07-rewrite-running-essay/baseline.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 8,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 8,
+      "commas": 1,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "07-rewrite-running-essay/fluent-korean.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 1,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 10,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 10,
+      "commas": 1,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 1
+  },
+  "07-rewrite-running-essay/fluent-korean.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 1,
+      "beyond": 0,
+      "theMoment": 1,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 9,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 9,
+      "commas": 2,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 2
+  },
+  "07-rewrite-running-essay/fluent-korean.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 1,
+      "beyond": 0,
+      "theMoment": 1,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 9,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 9,
+      "commas": 2,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 2
+  },
+  "07-rewrite-running-essay/ours.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 5,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 5,
+      "commas": 0,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "07-rewrite-running-essay/ours.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 5,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 5,
+      "commas": 1,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "07-rewrite-running-essay/ours.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 5,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 5,
+      "commas": 3,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "07-rewrite-running-essay/im-not-ai.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 10,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 10,
+      "commas": 2,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "07-rewrite-running-essay/im-not-ai.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 8,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 8,
+      "commas": 2,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "07-rewrite-running-essay/im-not-ai.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 1,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 9,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 9,
+      "commas": 0,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 1
+  },
+  "07-rewrite-running-essay/ours-two-examples.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 5,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 5,
+      "commas": 2,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "07-rewrite-running-essay/ours-two-examples.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 6,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 6,
+      "commas": 1,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "07-rewrite-running-essay/ours-two-examples.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 5,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 5,
+      "commas": 1,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "08-merge-short-sentences/baseline.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 7,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 7,
+      "commas": 5,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "08-merge-short-sentences/baseline.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 5,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 5,
+      "commas": 5,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "08-merge-short-sentences/baseline.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 5,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 5,
+      "commas": 4,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "08-merge-short-sentences/fluent-korean.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 7,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 7,
+      "commas": 5,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "08-merge-short-sentences/fluent-korean.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 7,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 7,
+      "commas": 5,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "08-merge-short-sentences/fluent-korean.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 7,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 7,
+      "commas": 4,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "08-merge-short-sentences/ours.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 5,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 5,
+      "commas": 3,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "08-merge-short-sentences/ours.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 5,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 5,
+      "commas": 4,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "08-merge-short-sentences/ours.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 7,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 7,
+      "commas": 0,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "08-merge-short-sentences/im-not-ai.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 8,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 8,
+      "commas": 4,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "08-merge-short-sentences/im-not-ai.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 9,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 9,
+      "commas": 3,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "08-merge-short-sentences/im-not-ai.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 8,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 8,
+      "commas": 4,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "08-merge-short-sentences/ours-two-examples.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 5,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 5,
+      "commas": 2,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "08-merge-short-sentences/ours-two-examples.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 5,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 5,
+      "commas": 2,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "08-merge-short-sentences/ours-two-examples.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0
+    },
+    "sentences": {
+      "paragraph": 7,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 7,
+      "commas": 3,
+      "manyCommas": 0
+    },
+    "checks": {},
+    "title": null,
+    "violations": 0
+  },
+  "09-commit-fix-coupon-timezone/baseline.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 4,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 4,
+      "commas": 2,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": true,
+        "detail": "fix"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "명사"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "32자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "messageOnly": {
+        "ok": true,
+        "detail": "설명이나 코드 블록 없이 메시지만 있는지"
+      },
+      "bodyPlainStyle": {
+        "ok": true,
+        "detail": "본문에서 합니다체나 해요체로 끝난 문장 0개"
+      }
+    },
+    "title": "fix: 쿠폰 만료 판정 시 한국 시간 기준 날짜로 비교하도록 수정",
+    "violations": 0
+  },
+  "09-commit-fix-coupon-timezone/baseline.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 4,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 4,
+      "commas": 1,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": true,
+        "detail": "fix"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "명사"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "23자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "messageOnly": {
+        "ok": true,
+        "detail": "설명이나 코드 블록 없이 메시지만 있는지"
+      },
+      "bodyPlainStyle": {
+        "ok": true,
+        "detail": "본문에서 합니다체나 해요체로 끝난 문장 0개"
+      }
+    },
+    "title": "fix(coupon): 쿠폰 만료 판정을 한국 시간 기준으로 수정",
+    "violations": 0
+  },
+  "09-commit-fix-coupon-timezone/baseline.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 3,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 3,
+      "commas": 2,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": true,
+        "detail": "fix"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "명사"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "23자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "messageOnly": {
+        "ok": true,
+        "detail": "설명이나 코드 블록 없이 메시지만 있는지"
+      },
+      "bodyPlainStyle": {
+        "ok": false,
+        "detail": "본문에서 합니다체나 해요체로 끝난 문장 3개"
+      }
+    },
+    "title": "fix: 쿠폰 만료 판정을 한국 시간 기준으로 수정",
+    "violations": 1
+  },
+  "09-commit-fix-coupon-timezone/fluent-korean.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 4,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 4,
+      "commas": 2,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": false,
+        "detail": "타입 없음"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "명사"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "32자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "messageOnly": {
+        "ok": true,
+        "detail": "설명이나 코드 블록 없이 메시지만 있는지"
+      },
+      "bodyPlainStyle": {
+        "ok": false,
+        "detail": "본문에서 합니다체나 해요체로 끝난 문장 4개"
+      }
+    },
+    "title": "쿠폰 만료 판정 시 한국 시간 기준 날짜를 사용하도록 수정",
+    "violations": 2
+  },
+  "09-commit-fix-coupon-timezone/fluent-korean.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 4,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 4,
+      "commas": 1,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": false,
+        "detail": "타입 없음"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "명사"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "39자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "messageOnly": {
+        "ok": true,
+        "detail": "설명이나 코드 블록 없이 메시지만 있는지"
+      },
+      "bodyPlainStyle": {
+        "ok": false,
+        "detail": "본문에서 합니다체나 해요체로 끝난 문장 4개"
+      }
+    },
+    "title": "쿠폰 만료 판정 시 한국 시간 기준 날짜로 비교하도록 수정 (#214)",
+    "violations": 2
+  },
+  "09-commit-fix-coupon-timezone/fluent-korean.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 4,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 4,
+      "commas": 2,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": false,
+        "detail": "타입 없음"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "명사"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "39자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "messageOnly": {
+        "ok": true,
+        "detail": "설명이나 코드 블록 없이 메시지만 있는지"
+      },
+      "bodyPlainStyle": {
+        "ok": false,
+        "detail": "본문에서 합니다체나 해요체로 끝난 문장 4개"
+      }
+    },
+    "title": "쿠폰 만료 판정 시 한국 시간 기준 날짜로 비교하도록 수정 (#214)",
+    "violations": 2
+  },
+  "09-commit-fix-coupon-timezone/ours.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 4,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 4,
+      "commas": 1,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": true,
+        "detail": "fix"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "명사"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "30자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "messageOnly": {
+        "ok": true,
+        "detail": "설명이나 코드 블록 없이 메시지만 있는지"
+      },
+      "bodyPlainStyle": {
+        "ok": true,
+        "detail": "본문에서 합니다체나 해요체로 끝난 문장 0개"
+      }
+    },
+    "title": "fix: 쿠폰 만료일을 UTC 대신 한국 시간 기준 날짜와 비교",
+    "violations": 0
+  },
+  "09-commit-fix-coupon-timezone/ours.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 2,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 2,
+      "commas": 2,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": true,
+        "detail": "fix"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "명사"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "25자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "messageOnly": {
+        "ok": true,
+        "detail": "설명이나 코드 블록 없이 메시지만 있는지"
+      },
+      "bodyPlainStyle": {
+        "ok": true,
+        "detail": "본문에서 합니다체나 해요체로 끝난 문장 0개"
+      }
+    },
+    "title": "fix: 쿠폰 만료 여부를 한국 시간 기준 날짜로 비교",
+    "violations": 0
+  },
+  "09-commit-fix-coupon-timezone/ours.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 4,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 4,
+      "commas": 1,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": true,
+        "detail": "fix"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "명사"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "23자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "messageOnly": {
+        "ok": true,
+        "detail": "설명이나 코드 블록 없이 메시지만 있는지"
+      },
+      "bodyPlainStyle": {
+        "ok": true,
+        "detail": "본문에서 합니다체나 해요체로 끝난 문장 0개"
+      }
+    },
+    "title": "fix: 쿠폰 만료일을 한국 시간 기준 날짜와 비교",
+    "violations": 0
+  },
+  "09-commit-fix-coupon-timezone/ours-before-optimization.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 4,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 4,
+      "commas": 1,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": true,
+        "detail": "fix"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "명사"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "25자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "messageOnly": {
+        "ok": true,
+        "detail": "설명이나 코드 블록 없이 메시지만 있는지"
+      },
+      "bodyPlainStyle": {
+        "ok": true,
+        "detail": "본문에서 합니다체나 해요체로 끝난 문장 0개"
+      }
+    },
+    "title": "fix: 쿠폰 만료 여부를 한국 시간 기준 날짜로 비교",
+    "violations": 0
+  },
+  "09-commit-fix-coupon-timezone/ours-before-optimization.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 3,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 3,
+      "commas": 2,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": true,
+        "detail": "fix"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "명사"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "25자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "messageOnly": {
+        "ok": true,
+        "detail": "설명이나 코드 블록 없이 메시지만 있는지"
+      },
+      "bodyPlainStyle": {
+        "ok": true,
+        "detail": "본문에서 합니다체나 해요체로 끝난 문장 0개"
+      }
+    },
+    "title": "fix: 쿠폰 만료 여부를 한국 시간 기준 날짜로 비교",
+    "violations": 0
+  },
+  "09-commit-fix-coupon-timezone/ours-before-optimization.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 4,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 4,
+      "commas": 1,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": true,
+        "detail": "fix"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "명사"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "25자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "messageOnly": {
+        "ok": true,
+        "detail": "설명이나 코드 블록 없이 메시지만 있는지"
+      },
+      "bodyPlainStyle": {
+        "ok": true,
+        "detail": "본문에서 합니다체나 해요체로 끝난 문장 0개"
+      }
+    },
+    "title": "fix: 쿠폰 만료 여부를 한국 시간 기준 날짜로 비교",
+    "violations": 0
+  },
+  "09-commit-fix-coupon-timezone/ours-two-examples.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 4,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 4,
+      "commas": 1,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": true,
+        "detail": "fix"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "명사"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "25자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "messageOnly": {
+        "ok": true,
+        "detail": "설명이나 코드 블록 없이 메시지만 있는지"
+      },
+      "bodyPlainStyle": {
+        "ok": true,
+        "detail": "본문에서 합니다체나 해요체로 끝난 문장 0개"
+      }
+    },
+    "title": "fix: 쿠폰 만료 여부를 한국 시간 기준 날짜로 비교",
+    "violations": 0
+  },
+  "09-commit-fix-coupon-timezone/ours-two-examples.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 3,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 3,
+      "commas": 0,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": true,
+        "detail": "fix"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "명사"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "25자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "messageOnly": {
+        "ok": true,
+        "detail": "설명이나 코드 블록 없이 메시지만 있는지"
+      },
+      "bodyPlainStyle": {
+        "ok": true,
+        "detail": "본문에서 합니다체나 해요체로 끝난 문장 0개"
+      }
+    },
+    "title": "fix: 쿠폰 만료 여부를 한국 시간 기준 날짜로 비교",
+    "violations": 0
+  },
+  "09-commit-fix-coupon-timezone/ours-two-examples.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 3,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 3,
+      "commas": 2,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": true,
+        "detail": "fix"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "명사"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "25자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "messageOnly": {
+        "ok": true,
+        "detail": "설명이나 코드 블록 없이 메시지만 있는지"
+      },
+      "bodyPlainStyle": {
+        "ok": true,
+        "detail": "본문에서 합니다체나 해요체로 끝난 문장 0개"
+      }
+    },
+    "title": "fix: 쿠폰 만료 여부를 한국 시간 기준 날짜로 판단",
+    "violations": 0
+  },
+  "10-commit-feature-order-export/baseline.1": {
+    "counts": {
+      "middleDot": 1,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 1,
+      "paragraphIncomplete": 0,
+      "list": 5,
+      "listIncomplete": 0,
+      "total": 6,
+      "commas": 3,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": false,
+        "detail": "타입 없음"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "명사"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "21자"
+      },
+      "titleParticles": {
+        "ok": false,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "messageOnly": {
+        "ok": true,
+        "detail": "설명이나 코드 블록 없이 메시지만 있는지"
+      },
+      "bodyPlainStyle": {
+        "ok": true,
+        "detail": "본문에서 합니다체나 해요체로 끝난 문장 0개"
+      }
+    },
+    "title": "주문 목록 CSV 내보내기 API 추가",
+    "violations": 3
+  },
+  "10-commit-feature-order-export/baseline.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 2,
+      "paragraphIncomplete": 0,
+      "list": 4,
+      "listIncomplete": 1,
+      "total": 6,
+      "commas": 3,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": false,
+        "detail": "타입 없음"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "명사"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "21자"
+      },
+      "titleParticles": {
+        "ok": false,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "messageOnly": {
+        "ok": true,
+        "detail": "설명이나 코드 블록 없이 메시지만 있는지"
+      },
+      "bodyPlainStyle": {
+        "ok": true,
+        "detail": "본문에서 합니다체나 해요체로 끝난 문장 0개"
+      }
+    },
+    "title": "주문 내역 CSV 내보내기 API 추가",
+    "violations": 2
+  },
+  "10-commit-feature-order-export/baseline.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 2,
+      "paragraphIncomplete": 0,
+      "list": 4,
+      "listIncomplete": 0,
+      "total": 6,
+      "commas": 4,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": false,
+        "detail": "타입 없음"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "명사"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "21자"
+      },
+      "titleParticles": {
+        "ok": false,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "messageOnly": {
+        "ok": true,
+        "detail": "설명이나 코드 블록 없이 메시지만 있는지"
+      },
+      "bodyPlainStyle": {
+        "ok": true,
+        "detail": "본문에서 합니다체나 해요체로 끝난 문장 0개"
+      }
+    },
+    "title": "주문 목록 CSV 내보내기 API 추가",
+    "violations": 2
+  },
+  "10-commit-feature-order-export/fluent-korean.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 1,
+      "paragraphIncomplete": 0,
+      "list": 5,
+      "listIncomplete": 0,
+      "total": 6,
+      "commas": 5,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": false,
+        "detail": "타입 없음"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "명사"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "18자"
+      },
+      "titleParticles": {
+        "ok": false,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "messageOnly": {
+        "ok": true,
+        "detail": "설명이나 코드 블록 없이 메시지만 있는지"
+      },
+      "bodyPlainStyle": {
+        "ok": true,
+        "detail": "본문에서 합니다체나 해요체로 끝난 문장 0개"
+      }
+    },
+    "title": "주문 CSV 내보내기 API 추가",
+    "violations": 2
+  },
+  "10-commit-feature-order-export/fluent-korean.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 1,
+      "paragraphIncomplete": 0,
+      "list": 5,
+      "listIncomplete": 0,
+      "total": 6,
+      "commas": 4,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": false,
+        "detail": "타입 없음"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "명사"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "18자"
+      },
+      "titleParticles": {
+        "ok": false,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "messageOnly": {
+        "ok": true,
+        "detail": "설명이나 코드 블록 없이 메시지만 있는지"
+      },
+      "bodyPlainStyle": {
+        "ok": false,
+        "detail": "본문에서 합니다체나 해요체로 끝난 문장 6개"
+      }
+    },
+    "title": "주문 CSV 내보내기 API 추가",
+    "violations": 3
+  },
+  "10-commit-feature-order-export/fluent-korean.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 2,
+      "paragraphIncomplete": 0,
+      "list": 5,
+      "listIncomplete": 0,
+      "total": 7,
+      "commas": 3,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": false,
+        "detail": "타입 없음"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "명사"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "21자"
+      },
+      "titleParticles": {
+        "ok": false,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "messageOnly": {
+        "ok": true,
+        "detail": "설명이나 코드 블록 없이 메시지만 있는지"
+      },
+      "bodyPlainStyle": {
+        "ok": false,
+        "detail": "본문에서 합니다체나 해요체로 끝난 문장 7개"
+      }
+    },
+    "title": "주문 목록 CSV 내보내기 API 추가",
+    "violations": 3
+  },
+  "10-commit-feature-order-export/ours.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 6,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 6,
+      "commas": 1,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": true,
+        "detail": "feature"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "명사"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "24자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "messageOnly": {
+        "ok": true,
+        "detail": "설명이나 코드 블록 없이 메시지만 있는지"
+      },
+      "bodyPlainStyle": {
+        "ok": true,
+        "detail": "본문에서 합니다체나 해요체로 끝난 문장 0개"
+      }
+    },
+    "title": "feature: 주문을 CSV 파일로 내보내는 API를 추가",
+    "violations": 0
+  },
+  "10-commit-feature-order-export/ours.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 6,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 6,
+      "commas": 1,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": true,
+        "detail": "feature"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "명사"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "42자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "messageOnly": {
+        "ok": true,
+        "detail": "설명이나 코드 블록 없이 메시지만 있는지"
+      },
+      "bodyPlainStyle": {
+        "ok": true,
+        "detail": "본문에서 합니다체나 해요체로 끝난 문장 0개"
+      }
+    },
+    "title": "feature: 기간별 주문을 CSV 로 내려받는 GET /orders/export 를 추가",
+    "violations": 0
+  },
+  "10-commit-feature-order-export/ours.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 4,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 4,
+      "commas": 1,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": true,
+        "detail": "feature"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "명사"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "29자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "messageOnly": {
+        "ok": true,
+        "detail": "설명이나 코드 블록 없이 메시지만 있는지"
+      },
+      "bodyPlainStyle": {
+        "ok": true,
+        "detail": "본문에서 합니다체나 해요체로 끝난 문장 0개"
+      }
+    },
+    "title": "feature: 기간별 주문을 CSV 파일로 내보내는 API 를 추가",
+    "violations": 0
+  },
+  "10-commit-feature-order-export/ours-before-optimization.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 4,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 4,
+      "commas": 1,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": true,
+        "detail": "feature"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "명사"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "33자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "messageOnly": {
+        "ok": true,
+        "detail": "설명이나 코드 블록 없이 메시지만 있는지"
+      },
+      "bodyPlainStyle": {
+        "ok": true,
+        "detail": "본문에서 합니다체나 해요체로 끝난 문장 0개"
+      }
+    },
+    "title": "feature: 관리자와 매니저가 주문을 CSV 로 내보내는 API 를 추가",
+    "violations": 0
+  },
+  "10-commit-feature-order-export/ours-before-optimization.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 6,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 6,
+      "commas": 1,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": true,
+        "detail": "feature"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "명사"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "24자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "messageOnly": {
+        "ok": true,
+        "detail": "설명이나 코드 블록 없이 메시지만 있는지"
+      },
+      "bodyPlainStyle": {
+        "ok": true,
+        "detail": "본문에서 합니다체나 해요체로 끝난 문장 0개"
+      }
+    },
+    "title": "feature: 주문을 CSV 파일로 내보내는 API를 추가",
+    "violations": 0
+  },
+  "10-commit-feature-order-export/ours-before-optimization.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 6,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 6,
+      "commas": 3,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": true,
+        "detail": "feature"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "명사"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "24자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "messageOnly": {
+        "ok": true,
+        "detail": "설명이나 코드 블록 없이 메시지만 있는지"
+      },
+      "bodyPlainStyle": {
+        "ok": true,
+        "detail": "본문에서 합니다체나 해요체로 끝난 문장 0개"
+      }
+    },
+    "title": "feature: 주문을 CSV 파일로 내보내는 API를 추가",
+    "violations": 0
+  },
+  "10-commit-feature-order-export/ours-two-examples.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 6,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 6,
+      "commas": 0,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": true,
+        "detail": "feature"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "명사"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "29자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "messageOnly": {
+        "ok": true,
+        "detail": "설명이나 코드 블록 없이 메시지만 있는지"
+      },
+      "bodyPlainStyle": {
+        "ok": true,
+        "detail": "본문에서 합니다체나 해요체로 끝난 문장 0개"
+      }
+    },
+    "title": "feature: 기간별 주문을 CSV 파일로 내보내는 API 를 추가",
+    "violations": 0
+  },
+  "10-commit-feature-order-export/ours-two-examples.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 5,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 5,
+      "commas": 2,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": true,
+        "detail": "feature"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "명사"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "37자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "messageOnly": {
+        "ok": true,
+        "detail": "설명이나 코드 블록 없이 메시지만 있는지"
+      },
+      "bodyPlainStyle": {
+        "ok": true,
+        "detail": "본문에서 합니다체나 해요체로 끝난 문장 0개"
+      }
+    },
+    "title": "feature: 관리자와 매니저가 기간별 주문을 CSV 로 내려받는 API 를 추가",
+    "violations": 0
+  },
+  "10-commit-feature-order-export/ours-two-examples.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 5,
+      "paragraphIncomplete": 0,
+      "list": 0,
+      "listIncomplete": 0,
+      "total": 5,
+      "commas": 0,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": true,
+        "detail": "feature"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "명사"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "29자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "messageOnly": {
+        "ok": true,
+        "detail": "설명이나 코드 블록 없이 메시지만 있는지"
+      },
+      "bodyPlainStyle": {
+        "ok": true,
+        "detail": "본문에서 합니다체나 해요체로 끝난 문장 0개"
+      }
+    },
+    "title": "feature: 기간별 주문을 CSV 파일로 내보내는 API 를 추가",
+    "violations": 0
+  },
+  "11-pr-feature-reminder-hours/baseline.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 1
+    },
+    "sentences": {
+      "paragraph": 2,
+      "paragraphIncomplete": 0,
+      "list": 16,
+      "listIncomplete": 2,
+      "total": 18,
+      "commas": 4,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": false,
+        "detail": "타입 없음"
+      },
+      "titleEnding": {
+        "ok": false,
+        "detail": "한글로 끝나지 않음"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "44자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": false,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "titleOnFirstLine": {
+        "ok": true,
+        "detail": "첫 줄에 꾸밈 없이 제목만 있는지"
+      },
+      "sections": {
+        "ok": false,
+        "detail": "배경 / 변경 내용 / 배포 전 확인 / 테스트"
+      },
+      "deploySection": {
+        "ok": false,
+        "detail": "배포 참고 사항 절이 있어야 함"
+      },
+      "uncheckedBox": {
+        "ok": false,
+        "detail": "확인하지 못한 항목을 [ ] 로 표시했는지"
+      },
+      "politeStyle": {
+        "ok": true,
+        "detail": "합니다체가 아닌 종결 0개"
+      },
+      "noSignature": {
+        "ok": true,
+        "detail": "세션 링크나 서명이 없는지"
+      },
+      "noEmoji": {
+        "ok": true,
+        "detail": "이모지가 없는지"
+      }
+    },
+    "title": "예약 알림 시간을 매장별로 설정할 수 있게 변경 (1~72시간, 기본 24시간)",
+    "violations": 7
+  },
+  "11-pr-feature-reminder-hours/baseline.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 2,
+      "paragraphIncomplete": 0,
+      "list": 20,
+      "listIncomplete": 1,
+      "total": 22,
+      "commas": 3,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": false,
+        "detail": "타입 없음"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "명사"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "33자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "titleOnFirstLine": {
+        "ok": true,
+        "detail": "첫 줄에 꾸밈 없이 제목만 있는지"
+      },
+      "sections": {
+        "ok": false,
+        "detail": "배경 / 변경 내용 / 배포 전 확인 사항 / 확인한 것 / 확인하지 못한 것"
+      },
+      "deploySection": {
+        "ok": false,
+        "detail": "배포 참고 사항 절이 있어야 함"
+      },
+      "uncheckedBox": {
+        "ok": false,
+        "detail": "확인하지 못한 항목을 [ ] 로 표시했는지"
+      },
+      "politeStyle": {
+        "ok": false,
+        "detail": "합니다체가 아닌 종결 1개"
+      },
+      "noSignature": {
+        "ok": true,
+        "detail": "세션 링크나 서명이 없는지"
+      },
+      "noEmoji": {
+        "ok": true,
+        "detail": "이모지가 없는지"
+      }
+    },
+    "title": "예약 알림 시간을 매장별로 설정할 수 있도록 변경 (#87)",
+    "violations": 5
+  },
+  "11-pr-feature-reminder-hours/baseline.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 1
+    },
+    "sentences": {
+      "paragraph": 2,
+      "paragraphIncomplete": 0,
+      "list": 18,
+      "listIncomplete": 1,
+      "total": 20,
+      "commas": 6,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": false,
+        "detail": "타입 없음"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "명사"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "35자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "titleOnFirstLine": {
+        "ok": true,
+        "detail": "첫 줄에 꾸밈 없이 제목만 있는지"
+      },
+      "sections": {
+        "ok": false,
+        "detail": "배경 / 변경 내용 / 배포 전 확인 사항 / 테스트 / 리뷰어가 볼 만한 부분"
+      },
+      "deploySection": {
+        "ok": false,
+        "detail": "배포 참고 사항 절이 있어야 함"
+      },
+      "uncheckedBox": {
+        "ok": false,
+        "detail": "확인하지 못한 항목을 [ ] 로 표시했는지"
+      },
+      "politeStyle": {
+        "ok": false,
+        "detail": "합니다체가 아닌 종결 2개"
+      },
+      "noSignature": {
+        "ok": true,
+        "detail": "세션 링크나 서명이 없는지"
+      },
+      "noEmoji": {
+        "ok": true,
+        "detail": "이모지가 없는지"
+      }
+    },
+    "title": "매장별 예약 알림 시간을 1~72시간으로 설정할 수 있도록 변경",
+    "violations": 6
+  },
+  "11-pr-feature-reminder-hours/fluent-korean.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 5,
+      "paragraphIncomplete": 0,
+      "list": 21,
+      "listIncomplete": 0,
+      "total": 26,
+      "commas": 5,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": false,
+        "detail": "타입 없음"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "명사"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "27자"
+      },
+      "titleParticles": {
+        "ok": false,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "titleOnFirstLine": {
+        "ok": true,
+        "detail": "첫 줄에 꾸밈 없이 제목만 있는지"
+      },
+      "sections": {
+        "ok": false,
+        "detail": "변경 배경 / 변경 내용 / DB 마이그레이션 / 배포 전 확인 사항 / 테스트 / 주요 변경 파일"
+      },
+      "deploySection": {
+        "ok": false,
+        "detail": "배포 참고 사항 절이 있어야 함"
+      },
+      "uncheckedBox": {
+        "ok": false,
+        "detail": "확인하지 못한 항목을 [ ] 로 표시했는지"
+      },
+      "politeStyle": {
+        "ok": true,
+        "detail": "합니다체가 아닌 종결 0개"
+      },
+      "noSignature": {
+        "ok": true,
+        "detail": "세션 링크나 서명이 없는지"
+      },
+      "noEmoji": {
+        "ok": true,
+        "detail": "이모지가 없는지"
+      }
+    },
+    "title": "매장별 예약 알림 시간 설정 기능 추가 (#87)",
+    "violations": 5
+  },
+  "11-pr-feature-reminder-hours/fluent-korean.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 5,
+      "paragraphIncomplete": 0,
+      "list": 22,
+      "listIncomplete": 0,
+      "total": 27,
+      "commas": 7,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": false,
+        "detail": "타입 없음"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "명사"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "27자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "titleOnFirstLine": {
+        "ok": true,
+        "detail": "첫 줄에 꾸밈 없이 제목만 있는지"
+      },
+      "sections": {
+        "ok": false,
+        "detail": "배경 / 변경 사항 / DB 마이그레이션 / 배포 전 확인할 사항 / 테스트 / 주요 변경 파일"
+      },
+      "deploySection": {
+        "ok": false,
+        "detail": "배포 참고 사항 절이 있어야 함"
+      },
+      "uncheckedBox": {
+        "ok": false,
+        "detail": "확인하지 못한 항목을 [ ] 로 표시했는지"
+      },
+      "politeStyle": {
+        "ok": true,
+        "detail": "합니다체가 아닌 종결 0개"
+      },
+      "noSignature": {
+        "ok": true,
+        "detail": "세션 링크나 서명이 없는지"
+      },
+      "noEmoji": {
+        "ok": true,
+        "detail": "이모지가 없는지"
+      }
+    },
+    "title": "매장별로 예약 알림 시간을 설정할 수 있도록 변경",
+    "violations": 4
+  },
+  "11-pr-feature-reminder-hours/fluent-korean.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 4,
+      "paragraphIncomplete": 1,
+      "list": 21,
+      "listIncomplete": 0,
+      "total": 25,
+      "commas": 6,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": false,
+        "detail": "타입 없음"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "명사"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "27자"
+      },
+      "titleParticles": {
+        "ok": false,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "titleOnFirstLine": {
+        "ok": true,
+        "detail": "첫 줄에 꾸밈 없이 제목만 있는지"
+      },
+      "sections": {
+        "ok": false,
+        "detail": "배경 / 변경 내용 / 배포 시 주의 사항 / 테스트"
+      },
+      "deploySection": {
+        "ok": false,
+        "detail": "배포 참고 사항 절이 있어야 함"
+      },
+      "uncheckedBox": {
+        "ok": false,
+        "detail": "확인하지 못한 항목을 [ ] 로 표시했는지"
+      },
+      "politeStyle": {
+        "ok": true,
+        "detail": "합니다체가 아닌 종결 0개"
+      },
+      "noSignature": {
+        "ok": true,
+        "detail": "세션 링크나 서명이 없는지"
+      },
+      "noEmoji": {
+        "ok": true,
+        "detail": "이모지가 없는지"
+      }
+    },
+    "title": "매장별 예약 알림 시간 설정 기능 추가 (#87)",
+    "violations": 5
+  },
+  "11-pr-feature-reminder-hours/ours.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 2,
+      "paragraphIncomplete": 0,
+      "list": 16,
+      "listIncomplete": 2,
+      "total": 18,
+      "commas": 7,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": true,
+        "detail": "feature"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "명사"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "25자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "titleOnFirstLine": {
+        "ok": true,
+        "detail": "첫 줄에 꾸밈 없이 제목만 있는지"
+      },
+      "sections": {
+        "ok": true,
+        "detail": "작업 배경 / 변경 사항 / 배포 참고 사항 / 확인 사항"
+      },
+      "deploySection": {
+        "ok": true,
+        "detail": "배포 참고 사항 절이 있어야 함"
+      },
+      "uncheckedBox": {
+        "ok": true,
+        "detail": "확인하지 못한 항목을 [ ] 로 표시했는지"
+      },
+      "politeStyle": {
+        "ok": true,
+        "detail": "합니다체가 아닌 종결 0개"
+      },
+      "noSignature": {
+        "ok": true,
+        "detail": "세션 링크나 서명이 없는지"
+      },
+      "noEmoji": {
+        "ok": true,
+        "detail": "이모지가 없는지"
+      }
+    },
+    "title": "feature: 매장별 예약 알림 시간을 설정하는 기능을 추가",
+    "violations": 0
+  },
+  "11-pr-feature-reminder-hours/ours.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 2,
+      "paragraphIncomplete": 0,
+      "list": 13,
+      "listIncomplete": 2,
+      "total": 15,
+      "commas": 7,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": true,
+        "detail": "feature"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "명사"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "29자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "titleOnFirstLine": {
+        "ok": true,
+        "detail": "첫 줄에 꾸밈 없이 제목만 있는지"
+      },
+      "sections": {
+        "ok": true,
+        "detail": "작업 배경 / 변경 사항 / 배포 참고 사항 / 확인 사항"
+      },
+      "deploySection": {
+        "ok": true,
+        "detail": "배포 참고 사항 절이 있어야 함"
+      },
+      "uncheckedBox": {
+        "ok": true,
+        "detail": "확인하지 못한 항목을 [ ] 로 표시했는지"
+      },
+      "politeStyle": {
+        "ok": true,
+        "detail": "합니다체가 아닌 종결 0개"
+      },
+      "noSignature": {
+        "ok": true,
+        "detail": "세션 링크나 서명이 없는지"
+      },
+      "noEmoji": {
+        "ok": true,
+        "detail": "이모지가 없는지"
+      }
+    },
+    "title": "feature: 매장 관리자가 예약 알림 시간을 설정하는 기능을 추가",
+    "violations": 0
+  },
+  "11-pr-feature-reminder-hours/ours.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 1,
+      "paragraphIncomplete": 0,
+      "list": 14,
+      "listIncomplete": 2,
+      "total": 15,
+      "commas": 5,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": true,
+        "detail": "feature"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "\"~하게 함\""
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "35자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "titleOnFirstLine": {
+        "ok": true,
+        "detail": "첫 줄에 꾸밈 없이 제목만 있는지"
+      },
+      "sections": {
+        "ok": true,
+        "detail": "작업 배경 / 변경 사항 / 배포 참고 사항 / 확인 사항"
+      },
+      "deploySection": {
+        "ok": true,
+        "detail": "배포 참고 사항 절이 있어야 함"
+      },
+      "uncheckedBox": {
+        "ok": true,
+        "detail": "확인하지 못한 항목을 [ ] 로 표시했는지"
+      },
+      "politeStyle": {
+        "ok": true,
+        "detail": "합니다체가 아닌 종결 0개"
+      },
+      "noSignature": {
+        "ok": true,
+        "detail": "세션 링크나 서명이 없는지"
+      },
+      "noEmoji": {
+        "ok": true,
+        "detail": "이모지가 없는지"
+      }
+    },
+    "title": "feature: 매장 관리자가 예약 알림 문자의 발송 시간을 설정할 수 있게 함",
+    "violations": 0
+  },
+  "11-pr-feature-reminder-hours/ours-before-optimization.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 2,
+      "paragraphIncomplete": 0,
+      "list": 17,
+      "listIncomplete": 0,
+      "total": 19,
+      "commas": 8,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": true,
+        "detail": "feature"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "\"~하게 함\""
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "35자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "titleOnFirstLine": {
+        "ok": true,
+        "detail": "첫 줄에 꾸밈 없이 제목만 있는지"
+      },
+      "sections": {
+        "ok": true,
+        "detail": "작업 배경 / 변경 사항 / 배포 참고 사항 / 확인 사항"
+      },
+      "deploySection": {
+        "ok": true,
+        "detail": "배포 참고 사항 절이 있어야 함"
+      },
+      "uncheckedBox": {
+        "ok": true,
+        "detail": "확인하지 못한 항목을 [ ] 로 표시했는지"
+      },
+      "politeStyle": {
+        "ok": true,
+        "detail": "합니다체가 아닌 종결 0개"
+      },
+      "noSignature": {
+        "ok": true,
+        "detail": "세션 링크나 서명이 없는지"
+      },
+      "noEmoji": {
+        "ok": true,
+        "detail": "이모지가 없는지"
+      }
+    },
+    "title": "feature: 매장 관리자가 예약 알림 문자의 발송 시점을 설정할 수 있게 함",
+    "violations": 0
+  },
+  "11-pr-feature-reminder-hours/ours-before-optimization.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 2,
+      "paragraphIncomplete": 0,
+      "list": 18,
+      "listIncomplete": 2,
+      "total": 20,
+      "commas": 6,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": true,
+        "detail": "feature"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "\"~하게 함\""
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "33자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "titleOnFirstLine": {
+        "ok": true,
+        "detail": "첫 줄에 꾸밈 없이 제목만 있는지"
+      },
+      "sections": {
+        "ok": true,
+        "detail": "작업 배경 / 변경 사항 / 배포 참고 사항 / 확인 사항"
+      },
+      "deploySection": {
+        "ok": true,
+        "detail": "배포 참고 사항 절이 있어야 함"
+      },
+      "uncheckedBox": {
+        "ok": true,
+        "detail": "확인하지 못한 항목을 [ ] 로 표시했는지"
+      },
+      "politeStyle": {
+        "ok": true,
+        "detail": "합니다체가 아닌 종결 0개"
+      },
+      "noSignature": {
+        "ok": true,
+        "detail": "세션 링크나 서명이 없는지"
+      },
+      "noEmoji": {
+        "ok": true,
+        "detail": "이모지가 없는지"
+      }
+    },
+    "title": "feature: 매장 관리자가 예약 알림 시간을 1~72시간으로 설정하게 함",
+    "violations": 0
+  },
+  "11-pr-feature-reminder-hours/ours-before-optimization.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 2,
+      "paragraphIncomplete": 0,
+      "list": 19,
+      "listIncomplete": 2,
+      "total": 21,
+      "commas": 5,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": true,
+        "detail": "feature"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "\"~하게 함\""
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "37자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "titleOnFirstLine": {
+        "ok": true,
+        "detail": "첫 줄에 꾸밈 없이 제목만 있는지"
+      },
+      "sections": {
+        "ok": true,
+        "detail": "작업 배경 / 변경 사항 / 배포 참고 사항 / 확인 사항"
+      },
+      "deploySection": {
+        "ok": true,
+        "detail": "배포 참고 사항 절이 있어야 함"
+      },
+      "uncheckedBox": {
+        "ok": true,
+        "detail": "확인하지 못한 항목을 [ ] 로 표시했는지"
+      },
+      "politeStyle": {
+        "ok": true,
+        "detail": "합니다체가 아닌 종결 0개"
+      },
+      "noSignature": {
+        "ok": true,
+        "detail": "세션 링크나 서명이 없는지"
+      },
+      "noEmoji": {
+        "ok": true,
+        "detail": "이모지가 없는지"
+      }
+    },
+    "title": "feature: 매장 관리자가 예약 알림 시간을 1~72시간으로 설정할 수 있게 함",
+    "violations": 0
+  },
+  "11-pr-feature-reminder-hours/ours-two-examples.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 2,
+      "paragraphIncomplete": 0,
+      "list": 14,
+      "listIncomplete": 2,
+      "total": 16,
+      "commas": 7,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": true,
+        "detail": "feature"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "\"~하게 함\""
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "31자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "titleOnFirstLine": {
+        "ok": true,
+        "detail": "첫 줄에 꾸밈 없이 제목만 있는지"
+      },
+      "sections": {
+        "ok": true,
+        "detail": "작업 배경 / 변경 사항 / 배포 참고 사항 / 확인 사항"
+      },
+      "deploySection": {
+        "ok": true,
+        "detail": "배포 참고 사항 절이 있어야 함"
+      },
+      "uncheckedBox": {
+        "ok": true,
+        "detail": "확인하지 못한 항목을 [ ] 로 표시했는지"
+      },
+      "politeStyle": {
+        "ok": true,
+        "detail": "합니다체가 아닌 종결 0개"
+      },
+      "noSignature": {
+        "ok": true,
+        "detail": "세션 링크나 서명이 없는지"
+      },
+      "noEmoji": {
+        "ok": true,
+        "detail": "이모지가 없는지"
+      }
+    },
+    "title": "feature: 매장 관리자가 예약 알림 발송 시간을 설정할 수 있게 함",
+    "violations": 0
+  },
+  "11-pr-feature-reminder-hours/ours-two-examples.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 2,
+      "paragraphIncomplete": 0,
+      "list": 12,
+      "listIncomplete": 2,
+      "total": 14,
+      "commas": 8,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": true,
+        "detail": "feature"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "\"~하게 함\""
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "39자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "titleOnFirstLine": {
+        "ok": true,
+        "detail": "첫 줄에 꾸밈 없이 제목만 있는지"
+      },
+      "sections": {
+        "ok": true,
+        "detail": "작업 배경 / 변경 사항 / 배포 참고 사항 / 확인 사항"
+      },
+      "deploySection": {
+        "ok": true,
+        "detail": "배포 참고 사항 절이 있어야 함"
+      },
+      "uncheckedBox": {
+        "ok": true,
+        "detail": "확인하지 못한 항목을 [ ] 로 표시했는지"
+      },
+      "politeStyle": {
+        "ok": true,
+        "detail": "합니다체가 아닌 종결 0개"
+      },
+      "noSignature": {
+        "ok": true,
+        "detail": "세션 링크나 서명이 없는지"
+      },
+      "noEmoji": {
+        "ok": true,
+        "detail": "이모지가 없는지"
+      }
+    },
+    "title": "feature: 매장 관리자가 예약 알림 시간을 1~72시간 사이로 설정할 수 있게 함",
+    "violations": 0
+  },
+  "11-pr-feature-reminder-hours/ours-two-examples.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 2,
+      "paragraphIncomplete": 0,
+      "list": 12,
+      "listIncomplete": 2,
+      "total": 14,
+      "commas": 5,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": true,
+        "detail": "feature"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "\"~하게 함\""
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "32자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "titleOnFirstLine": {
+        "ok": true,
+        "detail": "첫 줄에 꾸밈 없이 제목만 있는지"
+      },
+      "sections": {
+        "ok": true,
+        "detail": "작업 배경 / 변경 사항 / 배포 참고 사항 / 확인 사항"
+      },
+      "deploySection": {
+        "ok": true,
+        "detail": "배포 참고 사항 절이 있어야 함"
+      },
+      "uncheckedBox": {
+        "ok": true,
+        "detail": "확인하지 못한 항목을 [ ] 로 표시했는지"
+      },
+      "politeStyle": {
+        "ok": true,
+        "detail": "합니다체가 아닌 종결 0개"
+      },
+      "noSignature": {
+        "ok": true,
+        "detail": "세션 링크나 서명이 없는지"
+      },
+      "noEmoji": {
+        "ok": true,
+        "detail": "이모지가 없는지"
+      }
+    },
+    "title": "feature: 매장별로 예약 알림 문자를 보낼 시간을 설정할 수 있게 함",
+    "violations": 0
+  },
+  "12-pr-fix-cart-quantity/baseline.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 1
+    },
+    "sentences": {
+      "paragraph": 7,
+      "paragraphIncomplete": 0,
+      "list": 13,
+      "listIncomplete": 4,
+      "total": 20,
+      "commas": 7,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": false,
+        "detail": "타입 없음"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "명사"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "39자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "titleOnFirstLine": {
+        "ok": true,
+        "detail": "첫 줄에 꾸밈 없이 제목만 있는지"
+      },
+      "sections": {
+        "ok": false,
+        "detail": "배경 / 원인 / 변경 내용 / 테스트 / 확인하지 못한 것 / 배포"
+      },
+      "deploySection": {
+        "ok": true,
+        "detail": "배포 참고 사항 절을 생략해야 함"
+      },
+      "uncheckedBox": {
+        "ok": false,
+        "detail": "확인하지 못한 항목을 [ ] 로 표시했는지"
+      },
+      "politeStyle": {
+        "ok": false,
+        "detail": "합니다체가 아닌 종결 1개"
+      },
+      "noSignature": {
+        "ok": true,
+        "detail": "세션 링크나 서명이 없는지"
+      },
+      "noEmoji": {
+        "ok": true,
+        "detail": "이모지가 없는지"
+      }
+    },
+    "title": "장바구니 수량 연타 시 늦게 온 예전 응답이 화면을 덮어쓰는 문제 수정",
+    "violations": 5
+  },
+  "12-pr-fix-cart-quantity/baseline.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 7,
+      "paragraphIncomplete": 0,
+      "list": 14,
+      "listIncomplete": 0,
+      "total": 21,
+      "commas": 5,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": false,
+        "detail": "타입 없음"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "명사"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "44자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "titleOnFirstLine": {
+        "ok": true,
+        "detail": "첫 줄에 꾸밈 없이 제목만 있는지"
+      },
+      "sections": {
+        "ok": false,
+        "detail": "배경 / 원인 / 변경 내용 / 확인한 것 / 확인하지 못한 것 / 배포 참고"
+      },
+      "deploySection": {
+        "ok": true,
+        "detail": "배포 참고 사항 절을 생략해야 함"
+      },
+      "uncheckedBox": {
+        "ok": false,
+        "detail": "확인하지 못한 항목을 [ ] 로 표시했는지"
+      },
+      "politeStyle": {
+        "ok": false,
+        "detail": "합니다체가 아닌 종결 4개"
+      },
+      "noSignature": {
+        "ok": true,
+        "detail": "세션 링크나 서명이 없는지"
+      },
+      "noEmoji": {
+        "ok": true,
+        "detail": "이모지가 없는지"
+      }
+    },
+    "title": "장바구니 수량을 빠르게 바꿀 때 늦게 온 예전 응답이 화면을 덮어쓰는 문제 수정",
+    "violations": 4
+  },
+  "12-pr-fix-cart-quantity/baseline.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 1
+    },
+    "sentences": {
+      "paragraph": 7,
+      "paragraphIncomplete": 0,
+      "list": 14,
+      "listIncomplete": 0,
+      "total": 21,
+      "commas": 6,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": false,
+        "detail": "타입 없음"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "명사"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "39자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "titleOnFirstLine": {
+        "ok": true,
+        "detail": "첫 줄에 꾸밈 없이 제목만 있는지"
+      },
+      "sections": {
+        "ok": false,
+        "detail": "문제 / 원인 / 변경 내용 / 테스트 / 확인하지 못한 것 / 배포"
+      },
+      "deploySection": {
+        "ok": true,
+        "detail": "배포 참고 사항 절을 생략해야 함"
+      },
+      "uncheckedBox": {
+        "ok": false,
+        "detail": "확인하지 못한 항목을 [ ] 로 표시했는지"
+      },
+      "politeStyle": {
+        "ok": false,
+        "detail": "합니다체가 아닌 종결 4개"
+      },
+      "noSignature": {
+        "ok": true,
+        "detail": "세션 링크나 서명이 없는지"
+      },
+      "noEmoji": {
+        "ok": true,
+        "detail": "이모지가 없는지"
+      }
+    },
+    "title": "장바구니 수량 연타 시 늦게 온 이전 응답이 화면을 덮어쓰는 문제 수정",
+    "violations": 5
+  },
+  "12-pr-fix-cart-quantity/fluent-korean.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 5,
+      "paragraphIncomplete": 0,
+      "list": 16,
+      "listIncomplete": 0,
+      "total": 21,
+      "commas": 6,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": false,
+        "detail": "타입 없음"
+      },
+      "titleEnding": {
+        "ok": false,
+        "detail": "\"-다\"로 끝남"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "39자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "titleOnFirstLine": {
+        "ok": true,
+        "detail": "첫 줄에 꾸밈 없이 제목만 있는지"
+      },
+      "sections": {
+        "ok": false,
+        "detail": "배경 / 원인 / 변경 사항 / 테스트 / 확인하지 못한 사항 / 배포 관련"
+      },
+      "deploySection": {
+        "ok": true,
+        "detail": "배포 참고 사항 절을 생략해야 함"
+      },
+      "uncheckedBox": {
+        "ok": false,
+        "detail": "확인하지 못한 항목을 [ ] 로 표시했는지"
+      },
+      "politeStyle": {
+        "ok": true,
+        "detail": "합니다체가 아닌 종결 0개"
+      },
+      "noSignature": {
+        "ok": true,
+        "detail": "세션 링크나 서명이 없는지"
+      },
+      "noEmoji": {
+        "ok": true,
+        "detail": "이모지가 없는지"
+      }
+    },
+    "title": "장바구니 수량을 빠르게 두 번 누르면 합계가 어긋나는 문제를 수정합니다",
+    "violations": 4
+  },
+  "12-pr-fix-cart-quantity/fluent-korean.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 1
+    },
+    "sentences": {
+      "paragraph": 7,
+      "paragraphIncomplete": 0,
+      "list": 14,
+      "listIncomplete": 1,
+      "total": 21,
+      "commas": 9,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": false,
+        "detail": "타입 없음"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "명사"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "43자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "titleOnFirstLine": {
+        "ok": true,
+        "detail": "첫 줄에 꾸밈 없이 제목만 있는지"
+      },
+      "sections": {
+        "ok": false,
+        "detail": "배경 / 원인 / 변경 내용 / 테스트 / 확인하지 못한 내용 / 배포 관련"
+      },
+      "deploySection": {
+        "ok": true,
+        "detail": "배포 참고 사항 절을 생략해야 함"
+      },
+      "uncheckedBox": {
+        "ok": false,
+        "detail": "확인하지 못한 항목을 [ ] 로 표시했는지"
+      },
+      "politeStyle": {
+        "ok": true,
+        "detail": "합니다체가 아닌 종결 0개"
+      },
+      "noSignature": {
+        "ok": true,
+        "detail": "세션 링크나 서명이 없는지"
+      },
+      "noEmoji": {
+        "ok": true,
+        "detail": "이모지가 없는지"
+      }
+    },
+    "title": "장바구니 수량을 빠르게 변경할 때 합계 금액이 어긋나는 문제 수정 (#131)",
+    "violations": 4
+  },
+  "12-pr-fix-cart-quantity/fluent-korean.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 11,
+      "paragraphIncomplete": 0,
+      "list": 12,
+      "listIncomplete": 0,
+      "total": 23,
+      "commas": 7,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": false,
+        "detail": "타입 없음"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "명사"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "39자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "titleOnFirstLine": {
+        "ok": true,
+        "detail": "첫 줄에 꾸밈 없이 제목만 있는지"
+      },
+      "sections": {
+        "ok": false,
+        "detail": "배경 / 원인 / 변경 내용 / 배포 관련 / 테스트 / 확인하지 못한 것"
+      },
+      "deploySection": {
+        "ok": true,
+        "detail": "배포 참고 사항 절을 생략해야 함"
+      },
+      "uncheckedBox": {
+        "ok": false,
+        "detail": "확인하지 못한 항목을 [ ] 로 표시했는지"
+      },
+      "politeStyle": {
+        "ok": false,
+        "detail": "합니다체가 아닌 종결 4개"
+      },
+      "noSignature": {
+        "ok": true,
+        "detail": "세션 링크나 서명이 없는지"
+      },
+      "noEmoji": {
+        "ok": true,
+        "detail": "이모지가 없는지"
+      }
+    },
+    "title": "장바구니 수량을 빠르게 바꿀 때 예전 응답이 화면을 덮어쓰는 문제 수정",
+    "violations": 4
+  },
+  "12-pr-fix-cart-quantity/ours.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 2,
+      "paragraphIncomplete": 0,
+      "list": 7,
+      "listIncomplete": 2,
+      "total": 9,
+      "commas": 4,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": true,
+        "detail": "fix"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "명사"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "45자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "titleOnFirstLine": {
+        "ok": true,
+        "detail": "첫 줄에 꾸밈 없이 제목만 있는지"
+      },
+      "sections": {
+        "ok": true,
+        "detail": "작업 배경 / 변경 사항 / 확인 사항"
+      },
+      "deploySection": {
+        "ok": true,
+        "detail": "배포 참고 사항 절을 생략해야 함"
+      },
+      "uncheckedBox": {
+        "ok": true,
+        "detail": "확인하지 못한 항목을 [ ] 로 표시했는지"
+      },
+      "politeStyle": {
+        "ok": true,
+        "detail": "합니다체가 아닌 종결 0개"
+      },
+      "noSignature": {
+        "ok": true,
+        "detail": "세션 링크나 서명이 없는지"
+      },
+      "noEmoji": {
+        "ok": true,
+        "detail": "이모지가 없는지"
+      }
+    },
+    "title": "fix: 수량을 빠르게 변경할 때 늦게 도착한 이전 응답이 장바구니를 덮어쓰지 않도록 수정",
+    "violations": 0
+  },
+  "12-pr-fix-cart-quantity/ours.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 2,
+      "paragraphIncomplete": 0,
+      "list": 8,
+      "listIncomplete": 2,
+      "total": 10,
+      "commas": 6,
+      "manyCommas": 1
+    },
+    "checks": {
+      "titleType": {
+        "ok": true,
+        "detail": "fix"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "명사"
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "48자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "titleOnFirstLine": {
+        "ok": true,
+        "detail": "첫 줄에 꾸밈 없이 제목만 있는지"
+      },
+      "sections": {
+        "ok": true,
+        "detail": "작업 배경 / 변경 사항 / 확인 사항"
+      },
+      "deploySection": {
+        "ok": true,
+        "detail": "배포 참고 사항 절을 생략해야 함"
+      },
+      "uncheckedBox": {
+        "ok": true,
+        "detail": "확인하지 못한 항목을 [ ] 로 표시했는지"
+      },
+      "politeStyle": {
+        "ok": true,
+        "detail": "합니다체가 아닌 종결 0개"
+      },
+      "noSignature": {
+        "ok": true,
+        "detail": "세션 링크나 서명이 없는지"
+      },
+      "noEmoji": {
+        "ok": true,
+        "detail": "이모지가 없는지"
+      }
+    },
+    "title": "fix: 장바구니 수량을 빠르게 변경할 때 늦게 도착한 이전 응답이 화면을 덮어쓰지 않도록 수정",
+    "violations": 0
+  },
+  "12-pr-fix-cart-quantity/ours.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 2,
+      "paragraphIncomplete": 0,
+      "list": 8,
+      "listIncomplete": 2,
+      "total": 10,
+      "commas": 7,
+      "manyCommas": 1
+    },
+    "checks": {
+      "titleType": {
+        "ok": true,
+        "detail": "fix"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "\"~하게 함\""
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "43자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "titleOnFirstLine": {
+        "ok": true,
+        "detail": "첫 줄에 꾸밈 없이 제목만 있는지"
+      },
+      "sections": {
+        "ok": true,
+        "detail": "작업 배경 / 변경 사항 / 확인 사항"
+      },
+      "deploySection": {
+        "ok": true,
+        "detail": "배포 참고 사항 절을 생략해야 함"
+      },
+      "uncheckedBox": {
+        "ok": true,
+        "detail": "확인하지 못한 항목을 [ ] 로 표시했는지"
+      },
+      "politeStyle": {
+        "ok": true,
+        "detail": "합니다체가 아닌 종결 0개"
+      },
+      "noSignature": {
+        "ok": true,
+        "detail": "세션 링크나 서명이 없는지"
+      },
+      "noEmoji": {
+        "ok": true,
+        "detail": "이모지가 없는지"
+      }
+    },
+    "title": "fix: 수량을 빠르게 변경할 때 늦게 도착한 예전 응답이 장바구니를 덮어쓰지 않게 함",
+    "violations": 0
+  },
+  "12-pr-fix-cart-quantity/ours-before-optimization.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 2,
+      "paragraphIncomplete": 0,
+      "list": 9,
+      "listIncomplete": 1,
+      "total": 11,
+      "commas": 5,
+      "manyCommas": 1
+    },
+    "checks": {
+      "titleType": {
+        "ok": true,
+        "detail": "fix"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "\"~하게 함\""
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "42자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "titleOnFirstLine": {
+        "ok": true,
+        "detail": "첫 줄에 꾸밈 없이 제목만 있는지"
+      },
+      "sections": {
+        "ok": true,
+        "detail": "작업 배경 / 변경 사항 / 확인 사항"
+      },
+      "deploySection": {
+        "ok": true,
+        "detail": "배포 참고 사항 절을 생략해야 함"
+      },
+      "uncheckedBox": {
+        "ok": true,
+        "detail": "확인하지 못한 항목을 [ ] 로 표시했는지"
+      },
+      "politeStyle": {
+        "ok": true,
+        "detail": "합니다체가 아닌 종결 0개"
+      },
+      "noSignature": {
+        "ok": true,
+        "detail": "세션 링크나 서명이 없는지"
+      },
+      "noEmoji": {
+        "ok": true,
+        "detail": "이모지가 없는지"
+      }
+    },
+    "title": "fix: 수량을 빠르게 바꿀 때 늦게 도착한 이전 응답이 장바구니를 덮어쓰지 않게 함",
+    "violations": 0
+  },
+  "12-pr-fix-cart-quantity/ours-before-optimization.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 2,
+      "paragraphIncomplete": 0,
+      "list": 7,
+      "listIncomplete": 0,
+      "total": 9,
+      "commas": 3,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": true,
+        "detail": "fix"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "\"~하게 함\""
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "38자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "titleOnFirstLine": {
+        "ok": true,
+        "detail": "첫 줄에 꾸밈 없이 제목만 있는지"
+      },
+      "sections": {
+        "ok": true,
+        "detail": "작업 배경 / 변경 사항 / 확인 사항"
+      },
+      "deploySection": {
+        "ok": true,
+        "detail": "배포 참고 사항 절을 생략해야 함"
+      },
+      "uncheckedBox": {
+        "ok": true,
+        "detail": "확인하지 못한 항목을 [ ] 로 표시했는지"
+      },
+      "politeStyle": {
+        "ok": true,
+        "detail": "합니다체가 아닌 종결 0개"
+      },
+      "noSignature": {
+        "ok": true,
+        "detail": "세션 링크나 서명이 없는지"
+      },
+      "noEmoji": {
+        "ok": true,
+        "detail": "이모지가 없는지"
+      }
+    },
+    "title": "fix: 장바구니 수량을 빠르게 바꿀 때 예전 응답이 화면을 덮어쓰지 않게 함",
+    "violations": 0
+  },
+  "12-pr-fix-cart-quantity/ours-before-optimization.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 2,
+      "paragraphIncomplete": 0,
+      "list": 8,
+      "listIncomplete": 2,
+      "total": 10,
+      "commas": 7,
+      "manyCommas": 1
+    },
+    "checks": {
+      "titleType": {
+        "ok": true,
+        "detail": "fix"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "\"~하게 함\""
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "42자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "titleOnFirstLine": {
+        "ok": true,
+        "detail": "첫 줄에 꾸밈 없이 제목만 있는지"
+      },
+      "sections": {
+        "ok": true,
+        "detail": "작업 배경 / 변경 사항 / 확인 사항"
+      },
+      "deploySection": {
+        "ok": true,
+        "detail": "배포 참고 사항 절을 생략해야 함"
+      },
+      "uncheckedBox": {
+        "ok": true,
+        "detail": "확인하지 못한 항목을 [ ] 로 표시했는지"
+      },
+      "politeStyle": {
+        "ok": true,
+        "detail": "합니다체가 아닌 종결 0개"
+      },
+      "noSignature": {
+        "ok": true,
+        "detail": "세션 링크나 서명이 없는지"
+      },
+      "noEmoji": {
+        "ok": true,
+        "detail": "이모지가 없는지"
+      }
+    },
+    "title": "fix: 수량을 빠르게 바꿀 때 늦게 도착한 이전 응답이 장바구니를 덮어쓰지 않게 함",
+    "violations": 0
+  },
+  "12-pr-fix-cart-quantity/ours-two-examples.1": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 2,
+      "paragraphIncomplete": 0,
+      "list": 6,
+      "listIncomplete": 0,
+      "total": 8,
+      "commas": 3,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": true,
+        "detail": "fix"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "\"~하게 함\""
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "40자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "titleOnFirstLine": {
+        "ok": true,
+        "detail": "첫 줄에 꾸밈 없이 제목만 있는지"
+      },
+      "sections": {
+        "ok": true,
+        "detail": "작업 배경 / 변경 사항 / 확인 사항"
+      },
+      "deploySection": {
+        "ok": true,
+        "detail": "배포 참고 사항 절을 생략해야 함"
+      },
+      "uncheckedBox": {
+        "ok": true,
+        "detail": "확인하지 못한 항목을 [ ] 로 표시했는지"
+      },
+      "politeStyle": {
+        "ok": true,
+        "detail": "합니다체가 아닌 종결 0개"
+      },
+      "noSignature": {
+        "ok": true,
+        "detail": "세션 링크나 서명이 없는지"
+      },
+      "noEmoji": {
+        "ok": true,
+        "detail": "이모지가 없는지"
+      }
+    },
+    "title": "fix: 장바구니 수량을 연속으로 변경할 때 이전 응답이 화면을 덮어쓰지 않게 함",
+    "violations": 0
+  },
+  "12-pr-fix-cart-quantity/ours-two-examples.2": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 2,
+      "paragraphIncomplete": 0,
+      "list": 7,
+      "listIncomplete": 2,
+      "total": 9,
+      "commas": 3,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": true,
+        "detail": "fix"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "\"~하게 함\""
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "38자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "titleOnFirstLine": {
+        "ok": true,
+        "detail": "첫 줄에 꾸밈 없이 제목만 있는지"
+      },
+      "sections": {
+        "ok": true,
+        "detail": "작업 배경 / 변경 사항 / 확인 사항"
+      },
+      "deploySection": {
+        "ok": true,
+        "detail": "배포 참고 사항 절을 생략해야 함"
+      },
+      "uncheckedBox": {
+        "ok": true,
+        "detail": "확인하지 못한 항목을 [ ] 로 표시했는지"
+      },
+      "politeStyle": {
+        "ok": true,
+        "detail": "합니다체가 아닌 종결 0개"
+      },
+      "noSignature": {
+        "ok": true,
+        "detail": "세션 링크나 서명이 없는지"
+      },
+      "noEmoji": {
+        "ok": true,
+        "detail": "이모지가 없는지"
+      }
+    },
+    "title": "fix: 장바구니 수량을 빠르게 바꿀 때 이전 응답이 화면을 덮어쓰지 않게 함",
+    "violations": 0
+  },
+  "12-pr-fix-cart-quantity/ours-two-examples.3": {
+    "counts": {
+      "middleDot": 0,
+      "emDash": 0,
+      "enDash": 0,
+      "arrow": 0,
+      "notSimply": 0,
+      "beyond": 0,
+      "theMoment": 0,
+      "we": 0,
+      "emptyModifier": 0,
+      "recap": 0,
+      "emoji": 0,
+      "vocabulary": 0
+    },
+    "sentences": {
+      "paragraph": 2,
+      "paragraphIncomplete": 0,
+      "list": 6,
+      "listIncomplete": 0,
+      "total": 8,
+      "commas": 2,
+      "manyCommas": 0
+    },
+    "checks": {
+      "titleType": {
+        "ok": true,
+        "detail": "fix"
+      },
+      "titleEnding": {
+        "ok": true,
+        "detail": "\"~하게 함\""
+      },
+      "titleLength": {
+        "ok": true,
+        "detail": "41자"
+      },
+      "titleParticles": {
+        "ok": true,
+        "detail": "조사로 끝나는 낱말이 있는지 추정"
+      },
+      "titleNoParenList": {
+        "ok": true,
+        "detail": "괄호 안에 항목을 나열했는지"
+      },
+      "titleOnFirstLine": {
+        "ok": true,
+        "detail": "첫 줄에 꾸밈 없이 제목만 있는지"
+      },
+      "sections": {
+        "ok": true,
+        "detail": "작업 배경 / 변경 사항 / 확인 사항"
+      },
+      "deploySection": {
+        "ok": true,
+        "detail": "배포 참고 사항 절을 생략해야 함"
+      },
+      "uncheckedBox": {
+        "ok": true,
+        "detail": "확인하지 못한 항목을 [ ] 로 표시했는지"
+      },
+      "politeStyle": {
+        "ok": true,
+        "detail": "합니다체가 아닌 종결 0개"
+      },
+      "noSignature": {
+        "ok": true,
+        "detail": "세션 링크나 서명이 없는지"
+      },
+      "noEmoji": {
+        "ok": true,
+        "detail": "이모지가 없는지"
+      }
+    },
+    "title": "fix: 수량을 연속으로 변경해도 늦게 도착한 이전 응답이 화면을 덮어쓰지 않게 함",
+    "violations": 0
+  }
+}

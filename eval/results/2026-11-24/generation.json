@@ -1,0 +1,1322 @@
+{
+  "01-explain-build-error/baseline.2": {
+    "systemPromptSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inputTokens": 949,
+    "outputTokens": 1079,
+    "durationMs": 7935,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:13:59.355Z"
+  },
+  "01-explain-build-error/baseline.3": {
+    "systemPromptSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inputTokens": 949,
+    "outputTokens": 1126,
+    "durationMs": 8019,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:13:59.447Z"
+  },
+  "01-explain-build-error/baseline.1": {
+    "systemPromptSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inputTokens": 949,
+    "outputTokens": 1151,
+    "durationMs": 8601,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:14:00.006Z"
+  },
+  "01-explain-build-error/fluent-korean.1": {
+    "systemPromptSha256": "3d675688d5cb5e8065040e0674a771e3c70f0ffbfda97faa51c510c09fa836af",
+    "inputTokens": 3551,
+    "outputTokens": 1396,
+    "durationMs": 10588,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:14:02.011Z"
+  },
+  "01-explain-build-error/fluent-korean.2": {
+    "systemPromptSha256": "3d675688d5cb5e8065040e0674a771e3c70f0ffbfda97faa51c510c09fa836af",
+    "inputTokens": 3551,
+    "outputTokens": 1544,
+    "durationMs": 11164,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:14:02.571Z"
+  },
+  "01-explain-build-error/fluent-korean.3": {
+    "systemPromptSha256": "3d675688d5cb5e8065040e0674a771e3c70f0ffbfda97faa51c510c09fa836af",
+    "inputTokens": 3551,
+    "outputTokens": 1406,
+    "durationMs": 9798,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:14:10.090Z"
+  },
+  "01-explain-build-error/ours.2": {
+    "systemPromptSha256": "d1064c417de1621deeef987696053fcbc3c209826e5630df5ce056e344dece48",
+    "inputTokens": 12419,
+    "outputTokens": 1356,
+    "durationMs": 10089,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:14:11.006Z"
+  },
+  "01-explain-build-error/ours.3": {
+    "systemPromptSha256": "d1064c417de1621deeef987696053fcbc3c209826e5630df5ce056e344dece48",
+    "inputTokens": 12419,
+    "outputTokens": 1250,
+    "durationMs": 9089,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:14:12.009Z"
+  },
+  "01-explain-build-error/ours-two-examples.1": {
+    "systemPromptSha256": "bd0260ddf1dccca6c86f2e30dccc6a8f46bca2ae4678118131be7df11b9c4026",
+    "inputTokens": 12119,
+    "outputTokens": 1286,
+    "durationMs": 9101,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:14:12.573Z"
+  },
+  "01-explain-build-error/ours.1": {
+    "systemPromptSha256": "d1064c417de1621deeef987696053fcbc3c209826e5630df5ce056e344dece48",
+    "inputTokens": 12419,
+    "outputTokens": 2039,
+    "durationMs": 15380,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:14:15.775Z"
+  },
+  "01-explain-build-error/ours-two-examples.3": {
+    "systemPromptSha256": "bd0260ddf1dccca6c86f2e30dccc6a8f46bca2ae4678118131be7df11b9c4026",
+    "inputTokens": 12119,
+    "outputTokens": 1294,
+    "durationMs": 9297,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:14:21.236Z"
+  },
+  "01-explain-build-error/ours-two-examples.2": {
+    "systemPromptSha256": "bd0260ddf1dccca6c86f2e30dccc6a8f46bca2ae4678118131be7df11b9c4026",
+    "inputTokens": 12119,
+    "outputTokens": 1413,
+    "durationMs": 10671,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:14:21.640Z"
+  },
+  "02-explain-locking/baseline.1": {
+    "systemPromptSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inputTokens": 786,
+    "outputTokens": 2399,
+    "durationMs": 16715,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:14:29.392Z"
+  },
+  "02-explain-locking/baseline.2": {
+    "systemPromptSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inputTokens": 786,
+    "outputTokens": 2246,
+    "durationMs": 16163,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:14:29.507Z"
+  },
+  "02-explain-locking/baseline.3": {
+    "systemPromptSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inputTokens": 786,
+    "outputTokens": 2310,
+    "durationMs": 16581,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:14:33.124Z"
+  },
+  "02-explain-locking/fluent-korean.1": {
+    "systemPromptSha256": "3d675688d5cb5e8065040e0674a771e3c70f0ffbfda97faa51c510c09fa836af",
+    "inputTokens": 3388,
+    "outputTokens": 2567,
+    "durationMs": 18123,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:14:40.099Z"
+  },
+  "02-explain-locking/fluent-korean.2": {
+    "systemPromptSha256": "3d675688d5cb5e8065040e0674a771e3c70f0ffbfda97faa51c510c09fa836af",
+    "inputTokens": 3388,
+    "outputTokens": 2628,
+    "durationMs": 18698,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:14:41.078Z"
+  },
+  "02-explain-locking/fluent-korean.3": {
+    "systemPromptSha256": "3d675688d5cb5e8065040e0674a771e3c70f0ffbfda97faa51c510c09fa836af",
+    "inputTokens": 3388,
+    "outputTokens": 3262,
+    "durationMs": 21726,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:14:51.845Z"
+  },
+  "02-explain-locking/ours.2": {
+    "systemPromptSha256": "d1064c417de1621deeef987696053fcbc3c209826e5630df5ce056e344dece48",
+    "inputTokens": 12256,
+    "outputTokens": 3164,
+    "durationMs": 21570,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:14:55.419Z"
+  },
+  "02-explain-locking/ours.1": {
+    "systemPromptSha256": "d1064c417de1621deeef987696053fcbc3c209826e5630df5ce056e344dece48",
+    "inputTokens": 12256,
+    "outputTokens": 3992,
+    "durationMs": 27793,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:14:58.034Z"
+  },
+  "02-explain-locking/ours.3": {
+    "systemPromptSha256": "d1064c417de1621deeef987696053fcbc3c209826e5630df5ce056e344dece48",
+    "inputTokens": 12256,
+    "outputTokens": 2727,
+    "durationMs": 19712,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:15:00.500Z"
+  },
+  "03-report-work/baseline.1": {
+    "systemPromptSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inputTokens": 1251,
+    "outputTokens": 701,
+    "durationMs": 4914,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:15:04.110Z"
+  },
+  "03-report-work/baseline.2": {
+    "systemPromptSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inputTokens": 1251,
+    "outputTokens": 770,
+    "durationMs": 5531,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:15:06.927Z"
+  },
+  "03-report-work/baseline.3": {
+    "systemPromptSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inputTokens": 1251,
+    "outputTokens": 785,
+    "durationMs": 5541,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:15:10.604Z"
+  },
+  "02-explain-locking/ours-two-examples.1": {
+    "systemPromptSha256": "bd0260ddf1dccca6c86f2e30dccc6a8f46bca2ae4678118131be7df11b9c4026",
+    "inputTokens": 11956,
+    "outputTokens": 4245,
+    "durationMs": 29072,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:15:10.952Z"
+  },
+  "02-explain-locking/ours-two-examples.2": {
+    "systemPromptSha256": "bd0260ddf1dccca6c86f2e30dccc6a8f46bca2ae4678118131be7df11b9c4026",
+    "inputTokens": 11956,
+    "outputTokens": 2982,
+    "durationMs": 21563,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:15:14.207Z"
+  },
+  "03-report-work/fluent-korean.1": {
+    "systemPromptSha256": "3d675688d5cb5e8065040e0674a771e3c70f0ffbfda97faa51c510c09fa836af",
+    "inputTokens": 3853,
+    "outputTokens": 1778,
+    "durationMs": 11437,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:15:19.277Z"
+  },
+  "02-explain-locking/ours-two-examples.3": {
+    "systemPromptSha256": "bd0260ddf1dccca6c86f2e30dccc6a8f46bca2ae4678118131be7df11b9c4026",
+    "inputTokens": 11956,
+    "outputTokens": 3499,
+    "durationMs": 23825,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:15:20.021Z"
+  },
+  "03-report-work/fluent-korean.2": {
+    "systemPromptSha256": "3d675688d5cb5e8065040e0674a771e3c70f0ffbfda97faa51c510c09fa836af",
+    "inputTokens": 3853,
+    "outputTokens": 1720,
+    "durationMs": 10697,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:15:22.202Z"
+  },
+  "03-report-work/fluent-korean.3": {
+    "systemPromptSha256": "3d675688d5cb5e8065040e0674a771e3c70f0ffbfda97faa51c510c09fa836af",
+    "inputTokens": 3853,
+    "outputTokens": 1790,
+    "durationMs": 10690,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:15:22.550Z"
+  },
+  "03-report-work/ours.1": {
+    "systemPromptSha256": "d1064c417de1621deeef987696053fcbc3c209826e5630df5ce056e344dece48",
+    "inputTokens": 12721,
+    "outputTokens": 1578,
+    "durationMs": 9985,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:15:25.157Z"
+  },
+  "03-report-work/ours.2": {
+    "systemPromptSha256": "d1064c417de1621deeef987696053fcbc3c209826e5630df5ce056e344dece48",
+    "inputTokens": 12721,
+    "outputTokens": 1461,
+    "durationMs": 9487,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:15:29.735Z"
+  },
+  "03-report-work/ours.3": {
+    "systemPromptSha256": "d1064c417de1621deeef987696053fcbc3c209826e5630df5ce056e344dece48",
+    "inputTokens": 12721,
+    "outputTokens": 1497,
+    "durationMs": 10163,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:15:31.157Z"
+  },
+  "04-ui-payment-error/baseline.1": {
+    "systemPromptSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inputTokens": 880,
+    "outputTokens": 161,
+    "durationMs": 1570,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:15:32.467Z"
+  },
+  "04-ui-payment-error/baseline.2": {
+    "systemPromptSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inputTokens": 880,
+    "outputTokens": 160,
+    "durationMs": 1496,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:15:33.904Z"
+  },
+  "04-ui-payment-error/baseline.3": {
+    "systemPromptSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inputTokens": 880,
+    "outputTokens": 164,
+    "durationMs": 1621,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:15:35.265Z"
+  },
+  "03-report-work/ours-two-examples.1": {
+    "systemPromptSha256": "bd0260ddf1dccca6c86f2e30dccc6a8f46bca2ae4678118131be7df11b9c4026",
+    "inputTokens": 12421,
+    "outputTokens": 2009,
+    "durationMs": 12912,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:15:36.040Z"
+  },
+  "03-report-work/ours-two-examples.2": {
+    "systemPromptSha256": "bd0260ddf1dccca6c86f2e30dccc6a8f46bca2ae4678118131be7df11b9c4026",
+    "inputTokens": 12421,
+    "outputTokens": 1899,
+    "durationMs": 12930,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:15:36.399Z"
+  },
+  "03-report-work/ours-two-examples.3": {
+    "systemPromptSha256": "bd0260ddf1dccca6c86f2e30dccc6a8f46bca2ae4678118131be7df11b9c4026",
+    "inputTokens": 12421,
+    "outputTokens": 1668,
+    "durationMs": 10770,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:15:36.892Z"
+  },
+  "04-ui-payment-error/fluent-korean.1": {
+    "systemPromptSha256": "3d675688d5cb5e8065040e0674a771e3c70f0ffbfda97faa51c510c09fa836af",
+    "inputTokens": 3482,
+    "outputTokens": 758,
+    "durationMs": 5802,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:15:40.642Z"
+  },
+  "04-ui-payment-error/fluent-korean.2": {
+    "systemPromptSha256": "3d675688d5cb5e8065040e0674a771e3c70f0ffbfda97faa51c510c09fa836af",
+    "inputTokens": 3482,
+    "outputTokens": 675,
+    "durationMs": 5395,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:15:41.618Z"
+  },
+  "04-ui-payment-error/fluent-korean.3": {
+    "systemPromptSha256": "3d675688d5cb5e8065040e0674a771e3c70f0ffbfda97faa51c510c09fa836af",
+    "inputTokens": 3482,
+    "outputTokens": 614,
+    "durationMs": 4547,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:15:41.783Z"
+  },
+  "04-ui-payment-error/ours.1": {
+    "systemPromptSha256": "d1064c417de1621deeef987696053fcbc3c209826e5630df5ce056e344dece48",
+    "inputTokens": 12350,
+    "outputTokens": 693,
+    "durationMs": 5122,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:15:42.606Z"
+  },
+  "04-ui-payment-error/ours.2": {
+    "systemPromptSha256": "d1064c417de1621deeef987696053fcbc3c209826e5630df5ce056e344dece48",
+    "inputTokens": 12350,
+    "outputTokens": 664,
+    "durationMs": 4740,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:15:42.780Z"
+  },
+  "05-ui-auto-category/baseline.1": {
+    "systemPromptSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inputTokens": 972,
+    "outputTokens": 416,
+    "durationMs": 3241,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:15:47.230Z"
+  },
+  "04-ui-payment-error/ours.3": {
+    "systemPromptSha256": "d1064c417de1621deeef987696053fcbc3c209826e5630df5ce056e344dece48",
+    "inputTokens": 12350,
+    "outputTokens": 737,
+    "durationMs": 5713,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:15:47.312Z"
+  },
+  "04-ui-payment-error/ours-two-examples.2": {
+    "systemPromptSha256": "bd0260ddf1dccca6c86f2e30dccc6a8f46bca2ae4678118131be7df11b9c4026",
+    "inputTokens": 12050,
+    "outputTokens": 807,
+    "durationMs": 5974,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:15:48.732Z"
+  },
+  "04-ui-payment-error/ours-two-examples.3": {
+    "systemPromptSha256": "bd0260ddf1dccca6c86f2e30dccc6a8f46bca2ae4678118131be7df11b9c4026",
+    "inputTokens": 12050,
+    "outputTokens": 746,
+    "durationMs": 5309,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:15:48.901Z"
+  },
+  "04-ui-payment-error/ours-two-examples.1": {
+    "systemPromptSha256": "bd0260ddf1dccca6c86f2e30dccc6a8f46bca2ae4678118131be7df11b9c4026",
+    "inputTokens": 12050,
+    "outputTokens": 906,
+    "durationMs": 7150,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:15:49.708Z"
+  },
+  "05-ui-auto-category/baseline.3": {
+    "systemPromptSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inputTokens": 972,
+    "outputTokens": 362,
+    "durationMs": 2738,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:15:51.283Z"
+  },
+  "05-ui-auto-category/baseline.2": {
+    "systemPromptSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inputTokens": 972,
+    "outputTokens": 386,
+    "durationMs": 3360,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:15:51.790Z"
+  },
+  "05-ui-auto-category/fluent-korean.1": {
+    "systemPromptSha256": "3d675688d5cb5e8065040e0674a771e3c70f0ffbfda97faa51c510c09fa836af",
+    "inputTokens": 3574,
+    "outputTokens": 424,
+    "durationMs": 3501,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:15:53.392Z"
+  },
+  "05-ui-auto-category/fluent-korean.2": {
+    "systemPromptSha256": "3d675688d5cb5e8065040e0674a771e3c70f0ffbfda97faa51c510c09fa836af",
+    "inputTokens": 3574,
+    "outputTokens": 444,
+    "durationMs": 3374,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:15:53.577Z"
+  },
+  "05-ui-auto-category/fluent-korean.3": {
+    "systemPromptSha256": "3d675688d5cb5e8065040e0674a771e3c70f0ffbfda97faa51c510c09fa836af",
+    "inputTokens": 3574,
+    "outputTokens": 441,
+    "durationMs": 3464,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:15:54.370Z"
+  },
+  "05-ui-auto-category/ours.1": {
+    "systemPromptSha256": "d1064c417de1621deeef987696053fcbc3c209826e5630df5ce056e344dece48",
+    "inputTokens": 12442,
+    "outputTokens": 305,
+    "durationMs": 2219,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:15:54.651Z"
+  },
+  "05-ui-auto-category/ours.2": {
+    "systemPromptSha256": "d1064c417de1621deeef987696053fcbc3c209826e5630df5ce056e344dece48",
+    "inputTokens": 12442,
+    "outputTokens": 288,
+    "durationMs": 2364,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:15:55.341Z"
+  },
+  "05-ui-auto-category/ours.3": {
+    "systemPromptSha256": "d1064c417de1621deeef987696053fcbc3c209826e5630df5ce056e344dece48",
+    "inputTokens": 12442,
+    "outputTokens": 290,
+    "durationMs": 2240,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:15:56.806Z"
+  },
+  "05-ui-auto-category/ours-two-examples.3": {
+    "systemPromptSha256": "bd0260ddf1dccca6c86f2e30dccc6a8f46bca2ae4678118131be7df11b9c4026",
+    "inputTokens": 12142,
+    "outputTokens": 298,
+    "durationMs": 2272,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:15:58.154Z"
+  },
+  "05-ui-auto-category/ours-two-examples.1": {
+    "systemPromptSha256": "bd0260ddf1dccca6c86f2e30dccc6a8f46bca2ae4678118131be7df11b9c4026",
+    "inputTokens": 12142,
+    "outputTokens": 440,
+    "durationMs": 3304,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:15:58.164Z"
+  },
+  "06-rewrite-tech-retro/baseline.1": {
+    "systemPromptSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inputTokens": 1172,
+    "outputTokens": 267,
+    "durationMs": 1964,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:15:58.494Z"
+  },
+  "06-rewrite-tech-retro/baseline.2": {
+    "systemPromptSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inputTokens": 1172,
+    "outputTokens": 291,
+    "durationMs": 2301,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:00.268Z"
+  },
+  "06-rewrite-tech-retro/baseline.3": {
+    "systemPromptSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inputTokens": 1172,
+    "outputTokens": 274,
+    "durationMs": 2414,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:01.787Z"
+  },
+  "05-ui-auto-category/ours-two-examples.2": {
+    "systemPromptSha256": "bd0260ddf1dccca6c86f2e30dccc6a8f46bca2ae4678118131be7df11b9c4026",
+    "inputTokens": 12142,
+    "outputTokens": 1220,
+    "durationMs": 8659,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:03.966Z"
+  },
+  "06-rewrite-tech-retro/ours.1": {
+    "systemPromptSha256": "d1064c417de1621deeef987696053fcbc3c209826e5630df5ce056e344dece48",
+    "inputTokens": 12642,
+    "outputTokens": 288,
+    "durationMs": 2360,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:05.322Z"
+  },
+  "06-rewrite-tech-retro/fluent-korean.2": {
+    "systemPromptSha256": "3d675688d5cb5e8065040e0674a771e3c70f0ffbfda97faa51c510c09fa836af",
+    "inputTokens": 3774,
+    "outputTokens": 1140,
+    "durationMs": 7979,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:07.513Z"
+  },
+  "06-rewrite-tech-retro/ours.2": {
+    "systemPromptSha256": "d1064c417de1621deeef987696053fcbc3c209826e5630df5ce056e344dece48",
+    "inputTokens": 12642,
+    "outputTokens": 313,
+    "durationMs": 2418,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:07.575Z"
+  },
+  "06-rewrite-tech-retro/fluent-korean.1": {
+    "systemPromptSha256": "3d675688d5cb5e8065040e0674a771e3c70f0ffbfda97faa51c510c09fa836af",
+    "inputTokens": 3774,
+    "outputTokens": 1312,
+    "durationMs": 8891,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:08.046Z"
+  },
+  "06-rewrite-tech-retro/ours.3": {
+    "systemPromptSha256": "d1064c417de1621deeef987696053fcbc3c209826e5630df5ce056e344dece48",
+    "inputTokens": 12642,
+    "outputTokens": 315,
+    "durationMs": 2537,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:09.045Z"
+  },
+  "06-rewrite-tech-retro/fluent-korean.3": {
+    "systemPromptSha256": "3d675688d5cb5e8065040e0674a771e3c70f0ffbfda97faa51c510c09fa836af",
+    "inputTokens": 3774,
+    "outputTokens": 1170,
+    "durationMs": 8133,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:09.384Z"
+  },
+  "06-rewrite-tech-retro/im-not-ai.1": {
+    "systemPromptSha256": "a214bdee48a4b27a7eebbf17eff8976e3d2142a4e57834f744ddda5c3b3a32dc",
+    "inputTokens": 8717,
+    "outputTokens": 310,
+    "durationMs": 2462,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:11.173Z"
+  },
+  "06-rewrite-tech-retro/im-not-ai.2": {
+    "systemPromptSha256": "a214bdee48a4b27a7eebbf17eff8976e3d2142a4e57834f744ddda5c3b3a32dc",
+    "inputTokens": 8717,
+    "outputTokens": 317,
+    "durationMs": 2622,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:11.395Z"
+  },
+  "06-rewrite-tech-retro/im-not-ai.3": {
+    "systemPromptSha256": "a214bdee48a4b27a7eebbf17eff8976e3d2142a4e57834f744ddda5c3b3a32dc",
+    "inputTokens": 8717,
+    "outputTokens": 345,
+    "durationMs": 2640,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:11.860Z"
+  },
+  "06-rewrite-tech-retro/ours-two-examples.1": {
+    "systemPromptSha256": "bd0260ddf1dccca6c86f2e30dccc6a8f46bca2ae4678118131be7df11b9c4026",
+    "inputTokens": 12342,
+    "outputTokens": 292,
+    "durationMs": 2345,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:12.645Z"
+  },
+  "06-rewrite-tech-retro/ours-two-examples.2": {
+    "systemPromptSha256": "bd0260ddf1dccca6c86f2e30dccc6a8f46bca2ae4678118131be7df11b9c4026",
+    "inputTokens": 12342,
+    "outputTokens": 314,
+    "durationMs": 2577,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:13.179Z"
+  },
+  "06-rewrite-tech-retro/ours-two-examples.3": {
+    "systemPromptSha256": "bd0260ddf1dccca6c86f2e30dccc6a8f46bca2ae4678118131be7df11b9c4026",
+    "inputTokens": 12342,
+    "outputTokens": 308,
+    "durationMs": 2403,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:14.845Z"
+  },
+  "07-rewrite-running-essay/baseline.1": {
+    "systemPromptSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inputTokens": 1109,
+    "outputTokens": 321,
+    "durationMs": 2683,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:15.328Z"
+  },
+  "07-rewrite-running-essay/baseline.2": {
+    "systemPromptSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inputTokens": 1109,
+    "outputTokens": 319,
+    "durationMs": 2877,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:15.892Z"
+  },
+  "07-rewrite-running-essay/baseline.3": {
+    "systemPromptSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inputTokens": 1109,
+    "outputTokens": 305,
+    "durationMs": 2727,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:16.532Z"
+  },
+  "07-rewrite-running-essay/ours.1": {
+    "systemPromptSha256": "d1064c417de1621deeef987696053fcbc3c209826e5630df5ce056e344dece48",
+    "inputTokens": 12579,
+    "outputTokens": 251,
+    "durationMs": 2182,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:19.240Z"
+  },
+  "07-rewrite-running-essay/ours.2": {
+    "systemPromptSha256": "d1064c417de1621deeef987696053fcbc3c209826e5630df5ce056e344dece48",
+    "inputTokens": 12579,
+    "outputTokens": 261,
+    "durationMs": 2582,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:20.239Z"
+  },
+  "07-rewrite-running-essay/ours.3": {
+    "systemPromptSha256": "d1064c417de1621deeef987696053fcbc3c209826e5630df5ce056e344dece48",
+    "inputTokens": 12579,
+    "outputTokens": 258,
+    "durationMs": 2367,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:22.807Z"
+  },
+  "07-rewrite-running-essay/fluent-korean.2": {
+    "systemPromptSha256": "3d675688d5cb5e8065040e0674a771e3c70f0ffbfda97faa51c510c09fa836af",
+    "inputTokens": 3711,
+    "outputTokens": 1164,
+    "durationMs": 7727,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:23.507Z"
+  },
+  "07-rewrite-running-essay/fluent-korean.1": {
+    "systemPromptSha256": "3d675688d5cb5e8065040e0674a771e3c70f0ffbfda97faa51c510c09fa836af",
+    "inputTokens": 3711,
+    "outputTokens": 1464,
+    "durationMs": 9595,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:23.710Z"
+  },
+  "07-rewrite-running-essay/im-not-ai.1": {
+    "systemPromptSha256": "a214bdee48a4b27a7eebbf17eff8976e3d2142a4e57834f744ddda5c3b3a32dc",
+    "inputTokens": 8654,
+    "outputTokens": 337,
+    "durationMs": 2758,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:24.158Z"
+  },
+  "07-rewrite-running-essay/fluent-korean.3": {
+    "systemPromptSha256": "3d675688d5cb5e8065040e0674a771e3c70f0ffbfda97faa51c510c09fa836af",
+    "inputTokens": 3711,
+    "outputTokens": 1446,
+    "durationMs": 9608,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:25.906Z"
+  },
+  "07-rewrite-running-essay/im-not-ai.2": {
+    "systemPromptSha256": "a214bdee48a4b27a7eebbf17eff8976e3d2142a4e57834f744ddda5c3b3a32dc",
+    "inputTokens": 8654,
+    "outputTokens": 319,
+    "durationMs": 2692,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:26.590Z"
+  },
+  "07-rewrite-running-essay/im-not-ai.3": {
+    "systemPromptSha256": "a214bdee48a4b27a7eebbf17eff8976e3d2142a4e57834f744ddda5c3b3a32dc",
+    "inputTokens": 8654,
+    "outputTokens": 350,
+    "durationMs": 2678,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:27.336Z"
+  },
+  "07-rewrite-running-essay/ours-two-examples.1": {
+    "systemPromptSha256": "bd0260ddf1dccca6c86f2e30dccc6a8f46bca2ae4678118131be7df11b9c4026",
+    "inputTokens": 12279,
+    "outputTokens": 280,
+    "durationMs": 2539,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:27.400Z"
+  },
+  "07-rewrite-running-essay/ours-two-examples.3": {
+    "systemPromptSha256": "bd0260ddf1dccca6c86f2e30dccc6a8f46bca2ae4678118131be7df11b9c4026",
+    "inputTokens": 12279,
+    "outputTokens": 267,
+    "durationMs": 2474,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:29.667Z"
+  },
+  "08-merge-short-sentences/baseline.1": {
+    "systemPromptSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inputTokens": 1002,
+    "outputTokens": 262,
+    "durationMs": 2044,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:29.850Z"
+  },
+  "08-merge-short-sentences/baseline.2": {
+    "systemPromptSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inputTokens": 1002,
+    "outputTokens": 267,
+    "durationMs": 2016,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:30.613Z"
+  },
+  "08-merge-short-sentences/baseline.3": {
+    "systemPromptSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inputTokens": 1002,
+    "outputTokens": 266,
+    "durationMs": 2134,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:30.757Z"
+  },
+  "07-rewrite-running-essay/ours-two-examples.2": {
+    "systemPromptSha256": "bd0260ddf1dccca6c86f2e30dccc6a8f46bca2ae4678118131be7df11b9c4026",
+    "inputTokens": 12279,
+    "outputTokens": 1120,
+    "durationMs": 7887,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:32.946Z"
+  },
+  "08-merge-short-sentences/fluent-korean.1": {
+    "systemPromptSha256": "3d675688d5cb5e8065040e0674a771e3c70f0ffbfda97faa51c510c09fa836af",
+    "inputTokens": 3604,
+    "outputTokens": 298,
+    "durationMs": 2381,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:33.230Z"
+  },
+  "08-merge-short-sentences/fluent-korean.2": {
+    "systemPromptSha256": "3d675688d5cb5e8065040e0674a771e3c70f0ffbfda97faa51c510c09fa836af",
+    "inputTokens": 3604,
+    "outputTokens": 297,
+    "durationMs": 2514,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:33.548Z"
+  },
+  "08-merge-short-sentences/ours.1": {
+    "systemPromptSha256": "d1064c417de1621deeef987696053fcbc3c209826e5630df5ce056e344dece48",
+    "inputTokens": 12472,
+    "outputTokens": 263,
+    "durationMs": 2103,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:34.068Z"
+  },
+  "08-merge-short-sentences/fluent-korean.3": {
+    "systemPromptSha256": "3d675688d5cb5e8065040e0674a771e3c70f0ffbfda97faa51c510c09fa836af",
+    "inputTokens": 3604,
+    "outputTokens": 293,
+    "durationMs": 2437,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:34.220Z"
+  },
+  "08-merge-short-sentences/ours.2": {
+    "systemPromptSha256": "d1064c417de1621deeef987696053fcbc3c209826e5630df5ce056e344dece48",
+    "inputTokens": 12472,
+    "outputTokens": 256,
+    "durationMs": 1959,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:36.100Z"
+  },
+  "08-merge-short-sentences/ours.3": {
+    "systemPromptSha256": "d1064c417de1621deeef987696053fcbc3c209826e5630df5ce056e344dece48",
+    "inputTokens": 12472,
+    "outputTokens": 255,
+    "durationMs": 2158,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:36.578Z"
+  },
+  "08-merge-short-sentences/im-not-ai.1": {
+    "systemPromptSha256": "a214bdee48a4b27a7eebbf17eff8976e3d2142a4e57834f744ddda5c3b3a32dc",
+    "inputTokens": 8547,
+    "outputTokens": 270,
+    "durationMs": 2029,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:36.691Z"
+  },
+  "08-merge-short-sentences/im-not-ai.3": {
+    "systemPromptSha256": "a214bdee48a4b27a7eebbf17eff8976e3d2142a4e57834f744ddda5c3b3a32dc",
+    "inputTokens": 8547,
+    "outputTokens": 274,
+    "durationMs": 2039,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:37.423Z"
+  },
+  "08-merge-short-sentences/im-not-ai.2": {
+    "systemPromptSha256": "a214bdee48a4b27a7eebbf17eff8976e3d2142a4e57834f744ddda5c3b3a32dc",
+    "inputTokens": 8547,
+    "outputTokens": 276,
+    "durationMs": 2210,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:37.433Z"
+  },
+  "08-merge-short-sentences/ours-two-examples.1": {
+    "systemPromptSha256": "bd0260ddf1dccca6c86f2e30dccc6a8f46bca2ae4678118131be7df11b9c4026",
+    "inputTokens": 12172,
+    "outputTokens": 258,
+    "durationMs": 1999,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:39.236Z"
+  },
+  "08-merge-short-sentences/ours-two-examples.2": {
+    "systemPromptSha256": "bd0260ddf1dccca6c86f2e30dccc6a8f46bca2ae4678118131be7df11b9c4026",
+    "inputTokens": 12172,
+    "outputTokens": 261,
+    "durationMs": 2027,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:39.794Z"
+  },
+  "08-merge-short-sentences/ours-two-examples.3": {
+    "systemPromptSha256": "bd0260ddf1dccca6c86f2e30dccc6a8f46bca2ae4678118131be7df11b9c4026",
+    "inputTokens": 12172,
+    "outputTokens": 266,
+    "durationMs": 2219,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:40.069Z"
+  },
+  "09-commit-fix-coupon-timezone/baseline.1": {
+    "systemPromptSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inputTokens": 1648,
+    "outputTokens": 305,
+    "durationMs": 2419,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:41.078Z"
+  },
+  "09-commit-fix-coupon-timezone/baseline.2": {
+    "systemPromptSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inputTokens": 1648,
+    "outputTokens": 282,
+    "durationMs": 2499,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:41.114Z"
+  },
+  "09-commit-fix-coupon-timezone/baseline.3": {
+    "systemPromptSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inputTokens": 1648,
+    "outputTokens": 295,
+    "durationMs": 2435,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:42.978Z"
+  },
+  "09-commit-fix-coupon-timezone/fluent-korean.1": {
+    "systemPromptSha256": "3d675688d5cb5e8065040e0674a771e3c70f0ffbfda97faa51c510c09fa836af",
+    "inputTokens": 4250,
+    "outputTokens": 307,
+    "durationMs": 2485,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:43.472Z"
+  },
+  "09-commit-fix-coupon-timezone/fluent-korean.2": {
+    "systemPromptSha256": "3d675688d5cb5e8065040e0674a771e3c70f0ffbfda97faa51c510c09fa836af",
+    "inputTokens": 4250,
+    "outputTokens": 347,
+    "durationMs": 2687,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:43.942Z"
+  },
+  "09-commit-fix-coupon-timezone/fluent-korean.3": {
+    "systemPromptSha256": "3d675688d5cb5e8065040e0674a771e3c70f0ffbfda97faa51c510c09fa836af",
+    "inputTokens": 4250,
+    "outputTokens": 336,
+    "durationMs": 2650,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:44.934Z"
+  },
+  "09-commit-fix-coupon-timezone/ours.1": {
+    "systemPromptSha256": "d1064c417de1621deeef987696053fcbc3c209826e5630df5ce056e344dece48",
+    "inputTokens": 13118,
+    "outputTokens": 867,
+    "durationMs": 6607,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:48.692Z"
+  },
+  "09-commit-fix-coupon-timezone/ours.2": {
+    "systemPromptSha256": "d1064c417de1621deeef987696053fcbc3c209826e5630df5ce056e344dece48",
+    "inputTokens": 13118,
+    "outputTokens": 781,
+    "durationMs": 5831,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:49.732Z"
+  },
+  "09-commit-fix-coupon-timezone/ours.3": {
+    "systemPromptSha256": "d1064c417de1621deeef987696053fcbc3c209826e5630df5ce056e344dece48",
+    "inputTokens": 13118,
+    "outputTokens": 824,
+    "durationMs": 5724,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:50.274Z"
+  },
+  "09-commit-fix-coupon-timezone/ours-before-optimization.1": {
+    "systemPromptSha256": "98711cf4420b16029abec225b2e9db834ed8970384877a7222d1b5ff4b55c1dc",
+    "inputTokens": 16631,
+    "outputTokens": 892,
+    "durationMs": 6149,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:51.398Z"
+  },
+  "09-commit-fix-coupon-timezone/ours-before-optimization.2": {
+    "systemPromptSha256": "98711cf4420b16029abec225b2e9db834ed8970384877a7222d1b5ff4b55c1dc",
+    "inputTokens": 16631,
+    "outputTokens": 1133,
+    "durationMs": 7996,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:53.881Z"
+  },
+  "09-commit-fix-coupon-timezone/ours-two-examples.1": {
+    "systemPromptSha256": "bd0260ddf1dccca6c86f2e30dccc6a8f46bca2ae4678118131be7df11b9c4026",
+    "inputTokens": 12818,
+    "outputTokens": 823,
+    "durationMs": 6043,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:56.680Z"
+  },
+  "09-commit-fix-coupon-timezone/ours-before-optimization.3": {
+    "systemPromptSha256": "98711cf4420b16029abec225b2e9db834ed8970384877a7222d1b5ff4b55c1dc",
+    "inputTokens": 16631,
+    "outputTokens": 1120,
+    "durationMs": 7759,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:57.383Z"
+  },
+  "10-commit-feature-order-export/baseline.1": {
+    "systemPromptSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inputTokens": 2391,
+    "outputTokens": 274,
+    "durationMs": 2326,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:57.430Z"
+  },
+  "09-commit-fix-coupon-timezone/ours-two-examples.2": {
+    "systemPromptSha256": "bd0260ddf1dccca6c86f2e30dccc6a8f46bca2ae4678118131be7df11b9c4026",
+    "inputTokens": 12818,
+    "outputTokens": 866,
+    "durationMs": 6282,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:57.565Z"
+  },
+  "09-commit-fix-coupon-timezone/ours-two-examples.3": {
+    "systemPromptSha256": "bd0260ddf1dccca6c86f2e30dccc6a8f46bca2ae4678118131be7df11b9c4026",
+    "inputTokens": 12818,
+    "outputTokens": 755,
+    "durationMs": 5261,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:16:57.574Z"
+  },
+  "10-commit-feature-order-export/baseline.2": {
+    "systemPromptSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inputTokens": 2391,
+    "outputTokens": 323,
+    "durationMs": 2597,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:17:00.473Z"
+  },
+  "10-commit-feature-order-export/baseline.3": {
+    "systemPromptSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inputTokens": 2391,
+    "outputTokens": 324,
+    "durationMs": 2930,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:17:01.533Z"
+  },
+  "10-commit-feature-order-export/fluent-korean.2": {
+    "systemPromptSha256": "3d675688d5cb5e8065040e0674a771e3c70f0ffbfda97faa51c510c09fa836af",
+    "inputTokens": 4993,
+    "outputTokens": 500,
+    "durationMs": 3733,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:17:02.675Z"
+  },
+  "10-commit-feature-order-export/fluent-korean.3": {
+    "systemPromptSha256": "3d675688d5cb5e8065040e0674a771e3c70f0ffbfda97faa51c510c09fa836af",
+    "inputTokens": 4993,
+    "outputTokens": 471,
+    "durationMs": 4006,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:17:02.888Z"
+  },
+  "10-commit-feature-order-export/fluent-korean.1": {
+    "systemPromptSha256": "3d675688d5cb5e8065040e0674a771e3c70f0ffbfda97faa51c510c09fa836af",
+    "inputTokens": 4993,
+    "outputTokens": 735,
+    "durationMs": 5631,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:17:04.078Z"
+  },
+  "10-commit-feature-order-export/ours.1": {
+    "systemPromptSha256": "d1064c417de1621deeef987696053fcbc3c209826e5630df5ce056e344dece48",
+    "inputTokens": 13861,
+    "outputTokens": 993,
+    "durationMs": 6928,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:17:08.408Z"
+  },
+  "10-commit-feature-order-export/ours.2": {
+    "systemPromptSha256": "d1064c417de1621deeef987696053fcbc3c209826e5630df5ce056e344dece48",
+    "inputTokens": 13861,
+    "outputTokens": 839,
+    "durationMs": 6568,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:17:09.130Z"
+  },
+  "10-commit-feature-order-export/ours.3": {
+    "systemPromptSha256": "d1064c417de1621deeef987696053fcbc3c209826e5630df5ce056e344dece48",
+    "inputTokens": 13861,
+    "outputTokens": 1028,
+    "durationMs": 7594,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:17:11.236Z"
+  },
+  "10-commit-feature-order-export/ours-before-optimization.1": {
+    "systemPromptSha256": "98711cf4420b16029abec225b2e9db834ed8970384877a7222d1b5ff4b55c1dc",
+    "inputTokens": 17374,
+    "outputTokens": 1024,
+    "durationMs": 7405,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:17:11.339Z"
+  },
+  "10-commit-feature-order-export/ours-before-optimization.2": {
+    "systemPromptSha256": "98711cf4420b16029abec225b2e9db834ed8970384877a7222d1b5ff4b55c1dc",
+    "inputTokens": 17374,
+    "outputTokens": 968,
+    "durationMs": 7433,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:17:12.425Z"
+  },
+  "10-commit-feature-order-export/ours-before-optimization.3": {
+    "systemPromptSha256": "98711cf4420b16029abec225b2e9db834ed8970384877a7222d1b5ff4b55c1dc",
+    "inputTokens": 17374,
+    "outputTokens": 1020,
+    "durationMs": 7907,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:17:17.361Z"
+  },
+  "10-commit-feature-order-export/ours-two-examples.1": {
+    "systemPromptSha256": "bd0260ddf1dccca6c86f2e30dccc6a8f46bca2ae4678118131be7df11b9c4026",
+    "inputTokens": 13561,
+    "outputTokens": 1030,
+    "durationMs": 7748,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:17:17.910Z"
+  },
+  "10-commit-feature-order-export/ours-two-examples.3": {
+    "systemPromptSha256": "bd0260ddf1dccca6c86f2e30dccc6a8f46bca2ae4678118131be7df11b9c4026",
+    "inputTokens": 13561,
+    "outputTokens": 1017,
+    "durationMs": 7722,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:17:20.115Z"
+  },
+  "10-commit-feature-order-export/ours-two-examples.2": {
+    "systemPromptSha256": "bd0260ddf1dccca6c86f2e30dccc6a8f46bca2ae4678118131be7df11b9c4026",
+    "inputTokens": 13561,
+    "outputTokens": 1037,
+    "durationMs": 8215,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:17:20.485Z"
+  },
+  "11-pr-feature-reminder-hours/baseline.1": {
+    "systemPromptSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inputTokens": 1966,
+    "outputTokens": 1596,
+    "durationMs": 11443,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:17:24.811Z"
+  },
+  "11-pr-feature-reminder-hours/baseline.3": {
+    "systemPromptSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inputTokens": 1966,
+    "outputTokens": 1133,
+    "durationMs": 7617,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:17:26.433Z"
+  },
+  "11-pr-feature-reminder-hours/baseline.2": {
+    "systemPromptSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inputTokens": 1966,
+    "outputTokens": 1609,
+    "durationMs": 11465,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:17:29.716Z"
+  },
+  "11-pr-feature-reminder-hours/fluent-korean.1": {
+    "systemPromptSha256": "3d675688d5cb5e8065040e0674a771e3c70f0ffbfda97faa51c510c09fa836af",
+    "inputTokens": 4568,
+    "outputTokens": 2124,
+    "durationMs": 15560,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:17:36.466Z"
+  },
+  "11-pr-feature-reminder-hours/fluent-korean.2": {
+    "systemPromptSha256": "3d675688d5cb5e8065040e0674a771e3c70f0ffbfda97faa51c510c09fa836af",
+    "inputTokens": 4568,
+    "outputTokens": 2277,
+    "durationMs": 16673,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:17:37.911Z"
+  },
+  "11-pr-feature-reminder-hours/fluent-korean.3": {
+    "systemPromptSha256": "3d675688d5cb5e8065040e0674a771e3c70f0ffbfda97faa51c510c09fa836af",
+    "inputTokens": 4568,
+    "outputTokens": 2528,
+    "durationMs": 18741,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:17:44.305Z"
+  },
+  "11-pr-feature-reminder-hours/ours.1": {
+    "systemPromptSha256": "d1064c417de1621deeef987696053fcbc3c209826e5630df5ce056e344dece48",
+    "inputTokens": 13436,
+    "outputTokens": 3078,
+    "durationMs": 20389,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:17:47.627Z"
+  },
+  "11-pr-feature-reminder-hours/ours.2": {
+    "systemPromptSha256": "d1064c417de1621deeef987696053fcbc3c209826e5630df5ce056e344dece48",
+    "inputTokens": 13436,
+    "outputTokens": 3229,
+    "durationMs": 21664,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:17:52.142Z"
+  },
+  "11-pr-feature-reminder-hours/ours.3": {
+    "systemPromptSha256": "d1064c417de1621deeef987696053fcbc3c209826e5630df5ce056e344dece48",
+    "inputTokens": 13436,
+    "outputTokens": 3296,
+    "durationMs": 21058,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:17:58.342Z"
+  },
+  "11-pr-feature-reminder-hours/ours-before-optimization.1": {
+    "systemPromptSha256": "98711cf4420b16029abec225b2e9db834ed8970384877a7222d1b5ff4b55c1dc",
+    "inputTokens": 16949,
+    "outputTokens": 4002,
+    "durationMs": 27148,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:18:05.808Z"
+  },
+  "11-pr-feature-reminder-hours/ours-before-optimization.2": {
+    "systemPromptSha256": "98711cf4420b16029abec225b2e9db834ed8970384877a7222d1b5ff4b55c1dc",
+    "inputTokens": 16949,
+    "outputTokens": 2992,
+    "durationMs": 21173,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:18:06.204Z"
+  },
+  "11-pr-feature-reminder-hours/ours-before-optimization.3": {
+    "systemPromptSha256": "98711cf4420b16029abec225b2e9db834ed8970384877a7222d1b5ff4b55c1dc",
+    "inputTokens": 16949,
+    "outputTokens": 3364,
+    "durationMs": 22218,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:18:10.572Z"
+  },
+  "11-pr-feature-reminder-hours/ours-two-examples.1": {
+    "systemPromptSha256": "bd0260ddf1dccca6c86f2e30dccc6a8f46bca2ae4678118131be7df11b9c4026",
+    "inputTokens": 13136,
+    "outputTokens": 2881,
+    "durationMs": 19565,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:18:12.500Z"
+  },
+  "12-pr-fix-cart-quantity/baseline.1": {
+    "systemPromptSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inputTokens": 2037,
+    "outputTokens": 930,
+    "durationMs": 6079,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:18:13.237Z"
+  },
+  "11-pr-feature-reminder-hours/ours-two-examples.2": {
+    "systemPromptSha256": "bd0260ddf1dccca6c86f2e30dccc6a8f46bca2ae4678118131be7df11b9c4026",
+    "inputTokens": 13136,
+    "outputTokens": 2971,
+    "durationMs": 19615,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:18:18.742Z"
+  },
+  "12-pr-fix-cart-quantity/baseline.2": {
+    "systemPromptSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inputTokens": 2037,
+    "outputTokens": 1147,
+    "durationMs": 7956,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:18:19.468Z"
+  },
+  "12-pr-fix-cart-quantity/baseline.3": {
+    "systemPromptSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inputTokens": 2037,
+    "outputTokens": 1227,
+    "durationMs": 8579,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:18:22.052Z"
+  },
+  "11-pr-feature-reminder-hours/ours-two-examples.3": {
+    "systemPromptSha256": "bd0260ddf1dccca6c86f2e30dccc6a8f46bca2ae4678118131be7df11b9c4026",
+    "inputTokens": 13136,
+    "outputTokens": 2672,
+    "durationMs": 17927,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:18:24.496Z"
+  },
+  "12-pr-fix-cart-quantity/ours.1": {
+    "systemPromptSha256": "d1064c417de1621deeef987696053fcbc3c209826e5630df5ce056e344dece48",
+    "inputTokens": 13507,
+    "outputTokens": 779,
+    "durationMs": 5055,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:18:28.261Z"
+  },
+  "12-pr-fix-cart-quantity/fluent-korean.1": {
+    "systemPromptSha256": "3d675688d5cb5e8065040e0674a771e3c70f0ffbfda97faa51c510c09fa836af",
+    "inputTokens": 4639,
+    "outputTokens": 2115,
+    "durationMs": 14513,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:18:28.654Z"
+  },
+  "12-pr-fix-cart-quantity/ours.2": {
+    "systemPromptSha256": "d1064c417de1621deeef987696053fcbc3c209826e5630df5ce056e344dece48",
+    "inputTokens": 13507,
+    "outputTokens": 793,
+    "durationMs": 5006,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:18:30.626Z"
+  },
+  "12-pr-fix-cart-quantity/fluent-korean.2": {
+    "systemPromptSha256": "3d675688d5cb5e8065040e0674a771e3c70f0ffbfda97faa51c510c09fa836af",
+    "inputTokens": 4639,
+    "outputTokens": 1586,
+    "durationMs": 11598,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:18:31.246Z"
+  },
+  "12-pr-fix-cart-quantity/fluent-korean.3": {
+    "systemPromptSha256": "3d675688d5cb5e8065040e0674a771e3c70f0ffbfda97faa51c510c09fa836af",
+    "inputTokens": 4639,
+    "outputTokens": 1729,
+    "durationMs": 12470,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:18:32.858Z"
+  },
+  "12-pr-fix-cart-quantity/ours.3": {
+    "systemPromptSha256": "d1064c417de1621deeef987696053fcbc3c209826e5630df5ce056e344dece48",
+    "inputTokens": 13507,
+    "outputTokens": 843,
+    "durationMs": 5345,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:18:34.575Z"
+  },
+  "12-pr-fix-cart-quantity/ours-before-optimization.1": {
+    "systemPromptSha256": "98711cf4420b16029abec225b2e9db834ed8970384877a7222d1b5ff4b55c1dc",
+    "inputTokens": 17020,
+    "outputTokens": 2112,
+    "durationMs": 13225,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:18:42.791Z"
+  },
+  "12-pr-fix-cart-quantity/ours-before-optimization.2": {
+    "systemPromptSha256": "98711cf4420b16029abec225b2e9db834ed8970384877a7222d1b5ff4b55c1dc",
+    "inputTokens": 17020,
+    "outputTokens": 1962,
+    "durationMs": 12243,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:18:43.802Z"
+  },
+  "12-pr-fix-cart-quantity/ours-before-optimization.3": {
+    "systemPromptSha256": "98711cf4420b16029abec225b2e9db834ed8970384877a7222d1b5ff4b55c1dc",
+    "inputTokens": 17020,
+    "outputTokens": 1908,
+    "durationMs": 11907,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:18:44.042Z"
+  },
+  "12-pr-fix-cart-quantity/ours-two-examples.1": {
+    "systemPromptSha256": "bd0260ddf1dccca6c86f2e30dccc6a8f46bca2ae4678118131be7df11b9c4026",
+    "inputTokens": 13207,
+    "outputTokens": 1776,
+    "durationMs": 11867,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:18:45.645Z"
+  },
+  "12-pr-fix-cart-quantity/ours-two-examples.2": {
+    "systemPromptSha256": "bd0260ddf1dccca6c86f2e30dccc6a8f46bca2ae4678118131be7df11b9c4026",
+    "inputTokens": 13207,
+    "outputTokens": 1747,
+    "durationMs": 11140,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:18:46.910Z"
+  },
+  "12-pr-fix-cart-quantity/ours-two-examples.3": {
+    "systemPromptSha256": "bd0260ddf1dccca6c86f2e30dccc6a8f46bca2ae4678118131be7df11b9c4026",
+    "inputTokens": 13207,
+    "outputTokens": 1803,
+    "durationMs": 11494,
+    "attempts": 1,
+    "generatedAt": "2026-11-24T14:18:55.210Z"
+  }
+}

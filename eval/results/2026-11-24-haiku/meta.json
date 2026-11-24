@@ -1,0 +1,60 @@
+{
+  "run": "2026-11-24-haiku",
+  "model": "claude-haiku-5-5",
+  "conditions": {
+    "baseline": {
+      "label": "기본 (지침 없음)",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "chars": 0,
+      "sources": []
+    },
+    "fluent-korean": {
+      "label": "fluent-korean 원본",
+      "note": "snflkd/fluent-korean 의 출력 스타일 문서입니다. 실행할 때 고정한 커밋에서 내려받고 이 저장소에는 복사하지 않습니다.",
+      "sha256": "3d675688d5cb5e8065040e0674a771e3c70f0ffbfda97faa51c510c09fa836af",
+      "chars": 2587,
+      "sources": [
+        {
+          "name": "fluent-korean",
+          "origin": "https://raw.githubusercontent.com/snflkd/fluent-korean/ce8683f0eba8cddb91de4dcd151425ff73e60498/plugins/fluent-korean/output-styles/fluent-korean.md",
+          "sha256": "85c86f9870a7d8cbdd64510fd3a4ec01d53e37dfd279fac8b5988aa4742c8e96",
+          "chars": 2549
+        }
+      ]
+    },
+    "ours": {
+      "label": "우리 스킬 (natural-korean + git-writing-korean)",
+      "sha256": "d1064c417de1621deeef987696053fcbc3c209826e5630df5ce056e344dece48",
+      "chars": 11699,
+      "sources": [
+        {
+          "name": "natural-korean",
+          "origin": "plugins/korean-writing/skills/natural-korean/SKILL.md",
+          "sha256": "bd5ede7f846d739a6fdc7e2acd141bc82931a7a1cefa3485cdcdaa5569a3e4d4",
+          "chars": 6557
+        },
+        {
+          "name": "git-writing-korean",
+          "origin": "plugins/korean-writing/skills/git-writing-korean/SKILL.md",
+          "sha256": "fe8dbd27ebf09319f0b3e1dcfdda49359566a497d752adf34bd21a6ff11cfeaf",
+          "chars": 5058
+        }
+      ]
+    }
+  },
+  "phases": {
+    "generate": {
+      "calls": 108,
+      "wallMs": 228650
+    },
+    "judge": {
+      "calls": 72,
+      "wallMs": 219843
+    }
+  },
+  "claudeCodeVersion": "2.1.330 (Claude Code)",
+  "runsPerCase": 3,
+  "generatedAt": "2026-11-24T14:23:08.250Z",
+  "judgeModel": "claude-opus-5-5",
+  "judgeInstructionsHash": "9a4c5f6dc425"
+}

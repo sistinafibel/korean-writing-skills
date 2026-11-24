@@ -5,7 +5,7 @@ Claude Code 같은 코딩 에이전트가 한국어 문장과 커밋, PR 문서�
 | 스킬 | 다루는 것 |
 |------|-----------|
 | `natural-korean` | 한국어 답변, 문서, 화면 문구의 문장 지침입니다. 문장 성분과 조사를 생략하지 않게 하고, AI 가 쓴 글에서 반복되는 문형('단순히 A가 아니라 B이다', '~하는 순간 ~된다', 불필요한 '우리', 거창한 수식어, 같은 내용의 반복 정리)을 피하게 합니다. |
-| `git-writing-korean` | 커밋 메시지와 PR 문서의 작성 기준입니다. 커밋 타입 목록, "-한다" 로 끝나는 제목, 고정된 PR 본문 절(왜, 무엇이 바뀌나, 배포할 때 알아 둘 것, 확인한 것), 쓰지 않는 기호(가운뎃점, 엠대시, 엔대시, 화살표)를 정합니다. |
+| `git-writing-korean` | 커밋 메시지와 PR 문서의 작성 기준입니다. 커밋 타입 목록, "-한다" 로 끝나는 제목, 고정된 PR 본문 절(작업 배경, 변경 사항, 배포 참고 사항, 확인 사항), 쓰지 않는 기호(가운뎃점, 엠대시, 엔대시, 화살표)를 정합니다. |
 
 ## 왜 만들었나
 
@@ -41,7 +41,7 @@ Claude Code 에서 아래 두 명령을 차례로 입력합니다.
 `git-writing-korean` 은 저장소의 commitlint 설정과 PR 템플릿이 스킬보다 우선한다고 정합니다. 그래서 저장소 쪽 설정이 스킬과 다르면 스킬 기준이 적용되지 않습니다. 기준을 여러 저장소에 퍼뜨릴 때에는 다음 두 가지를 같이 맞춥니다.
 
 - `commitlint.config.*` 의 `type-enum`: `feature`, `fix`, `refactor`, `perf`, `docs`, `test`, `chore`, `ci`, `deploy`
-- `.github/pull_request_template.md`: 왜, 무엇이 바뀌나, 배포할 때 알아 둘 것, 확인한 것
+- `.github/pull_request_template.md`: 작업 배경, 변경 사항, 배포 참고 사항, 확인 사항
 
 두 설정의 예시는 [git-writing-korean 스킬](plugins/korean-writing/skills/git-writing-korean/SKILL.md)에 있습니다.
 

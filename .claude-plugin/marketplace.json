@@ -1,0 +1,16 @@
+{
+  "name": "korean-writing-skills",
+  "owner": {
+    "name": "sistinafibel"
+  },
+  "metadata": {
+    "description": "한국어 문장과 커밋, PR 문서를 일관되게 쓰게 하는 Claude Code 스킬셋"
+  },
+  "plugins": [
+    {
+      "name": "korean-writing",
+      "source": "./plugins/korean-writing",
+      "description": "natural-korean(한국어 문장 지침)과 git-writing-korean(커밋과 PR 작성 기준) 스킬"
+    }
+  ]
+}

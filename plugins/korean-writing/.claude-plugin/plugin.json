@@ -1,0 +1,11 @@
+{
+  "name": "korean-writing",
+  "version": "1.0.0",
+  "description": "natural-korean(한국어 문장 지침)과 git-writing-korean(커밋과 PR 작성 기준) 스킬",
+  "author": {
+    "name": "sistinafibel"
+  },
+  "repository": "https://github.com/sistinafibel/korean-writing-skills",
+  "license": "MIT",
+  "keywords": ["korean", "writing", "commit", "pull-request", "skills"]
+}

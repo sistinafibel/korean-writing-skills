@@ -1,0 +1,135 @@
+{
+  "conditions": [
+    {
+      "id": "baseline",
+      "label": "기본 (지침 없음)",
+      "short": "기본",
+      "sources": []
+    },
+    {
+      "id": "fluent-korean",
+      "label": "fluent-korean 원본",
+      "short": "fluent-korean",
+      "note": "snflkd/fluent-korean 의 출력 스타일 문서입니다. 실행할 때 고정한 커밋에서 내려받고 이 저장소에는 복사하지 않습니다.",
+      "sources": [
+        {
+          "name": "fluent-korean",
+          "url": "https://raw.githubusercontent.com/snflkd/fluent-korean/ce8683f0eba8cddb91de4dcd151425ff73e60498/plugins/fluent-korean/output-styles/fluent-korean.md",
+          "localFallback": "~/.claude/plugins/marketplaces/fluent-korean/plugins/fluent-korean/output-styles/fluent-korean.md"
+        }
+      ]
+    },
+    {
+      "id": "ours",
+      "label": "우리 스킬 (natural-korean + git-writing-korean)",
+      "short": "우리 스킬",
+      "sources": [
+        {
+          "name": "natural-korean",
+          "path": "plugins/korean-writing/skills/natural-korean/SKILL.md"
+        },
+        {
+          "name": "git-writing-korean",
+          "path": "plugins/korean-writing/skills/git-writing-korean/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "im-not-ai",
+      "label": "im-not-ai (quick-rules)",
+      "short": "im-not-ai",
+      "note": "epoko77-ai/im-not-ai 는 이미 쓴 글을 여러 단계로 윤문하는 도구입니다. 여기서는 그 가운데 한 번의 호출용 규칙집(quick-rules.md)만 시스템 프롬프트로 넣었으므로, 스크립트 검증 단계를 포함한 원래 사용 방식의 결과와는 다를 수 있습니다. 글을 고쳐 쓰는 갈래에만 적용합니다.",
+      "categories": [
+        "AI 문체 고쳐 쓰기",
+        "끊어 쓴 문장 합치기"
+      ],
+      "sources": [
+        {
+          "name": "humanize-korean-quick-rules",
+          "url": "https://raw.githubusercontent.com/epoko77-ai/im-not-ai/e9793d75a584169108906ee5f7332b27898efef4/skills/humanize-korean/references/quick-rules.md"
+        }
+      ]
+    },
+    {
+      "id": "ours-before-optimization",
+      "label": "우리 스킬, 분량을 줄이기 전 (bfbcb53)",
+      "short": "줄이기 전",
+      "note": "git-writing-korean 본문의 분량을 줄이기 직전 커밋의 두 스킬입니다. natural-korean 의 본문은 두 커밋에서 같습니다.",
+      "kinds": [
+        "commit",
+        "pr"
+      ],
+      "sources": [
+        {
+          "name": "natural-korean",
+          "git": "bfbcb53:plugins/korean-writing/skills/natural-korean/SKILL.md"
+        },
+        {
+          "name": "git-writing-korean",
+          "git": "bfbcb53:plugins/korean-writing/skills/git-writing-korean/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "ours-two-examples",
+      "label": "우리 스킬, natural-korean 의 예시를 조항당 2개로 줄인 실험용 사본",
+      "short": "예시 2개",
+      "note": "eval/experiments/natural-korean-two-examples.md 를 natural-korean 대신 넣습니다. git-writing-korean 은 같습니다.",
+      "sources": [
+        {
+          "name": "natural-korean",
+          "path": "eval/experiments/natural-korean-two-examples.md"
+        },
+        {
+          "name": "git-writing-korean",
+          "path": "plugins/korean-writing/skills/git-writing-korean/SKILL.md"
+        }
+      ]
+    }
+  ],
+  "comparisons": [
+    {
+      "id": "main",
+      "label": "세 조건 비교",
+      "conditions": [
+        "baseline",
+        "fluent-korean",
+        "ours"
+      ]
+    },
+    {
+      "id": "rewrite-tools",
+      "label": "고쳐 쓰기 갈래에서 im-not-ai 를 더한 비교",
+      "categories": [
+        "AI 문체 고쳐 쓰기",
+        "끊어 쓴 문장 합치기"
+      ],
+      "conditions": [
+        "baseline",
+        "fluent-korean",
+        "im-not-ai",
+        "ours"
+      ]
+    },
+    {
+      "id": "git-optimization",
+      "label": "git-writing-korean 의 분량을 줄이기 전과 후",
+      "kinds": [
+        "commit",
+        "pr"
+      ],
+      "conditions": [
+        "ours-before-optimization",
+        "ours"
+      ]
+    },
+    {
+      "id": "two-examples",
+      "label": "natural-korean 의 예시를 조항당 2개로 줄였을 때",
+      "conditions": [
+        "ours",
+        "ours-two-examples"
+      ]
+    }
+  ]
+}

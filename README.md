@@ -43,7 +43,7 @@ Claude Code 에서 아래 두 명령을 차례로 입력합니다.
 - `commitlint.config.*` 의 `type-enum`: `feature`, `fix`, `refactor`, `perf`, `docs`, `test`, `chore`, `ci`, `deploy`
 - `.github/pull_request_template.md`: 작업 배경, 변경 사항, 배포 참고 사항, 확인 사항
 
-두 설정의 예시는 [git-writing-korean 스킬](plugins/korean-writing/skills/git-writing-korean/SKILL.md)에 있습니다.
+PR 템플릿에 넣을 절 구성은 [git-writing-korean 스킬](plugins/korean-writing/skills/git-writing-korean/SKILL.md)에 있습니다.
 
 ## 출처
 

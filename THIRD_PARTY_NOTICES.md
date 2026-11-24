@@ -1,6 +1,6 @@
 # Third-party notices
 
-plugins/korean-writing/skills/natural-korean/SKILL.md 는 아래 저작물의 조항을 그대로 포함하고 있습니다.
+plugins/korean-writing/skills/natural-korean/SKILL.md는 아래 저작물의 조항을 그대로 포함하고 있습니다.
 
 - fluent-korean: https://github.com/snflkd/fluent-korean
 

@@ -47,7 +47,7 @@ PR 템플릿에 넣을 절 구성은 [git-writing-korean 스킬](plugins/korean-
 
 ## 출처
 
-`natural-korean`은 [snflkd/fluent-korean](https://github.com/snflkd/fluent-korean)의 조항을 그대로 포함하고 그 위에 새 조항을 더한 통합본입니다. fluent-korean의 라이선스 전문은 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)에 있습니다.
+`natural-korean`은 [snflkd/fluent-korean](https://github.com/snflkd/fluent-korean)의 조항을 바탕으로 문장을 줄이고 새 조항을 더한 문서입니다. fluent-korean의 라이선스 전문은 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)에 있습니다.
 
 ## 라이선스
 
